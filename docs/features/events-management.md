@@ -14,6 +14,21 @@ Wydarzenia to funkcjonalność pozwalająca stworzyć własną instancję gry te
 4. **Lider drużyny** - osoba biorąca czynny udział w wydarzeniu, będąca odpowiedzialna za dodanie członków zespołu oraz zbieranie punktów
 5. **Uczestnik** - osoba biorąca czynny udział w wydarzeniu, zarejestrowana w danym wydarzeniu oraz danej drużynie
 
+### Tworzenie wydarzenia
+
+1. Naciśnij przycisk "Utwórz wydarzenie" w widoku głównym aplikacji.
+2. Wypełnij podane pola w formularzu tworzenia wydarzenia.
+
+![event-create.png](../assets/events/event-create.png)
+![event-create-advanced.png](../assets/events/event-create-advanced.png)
+
+### Dołączanie do wydarzenia
+
+1. Naciśnij przycisk "Dołącz do wydarzenia" w widoku głównym aplikacji.
+2. Wpisz kod wydarzenia, który otrzymałeś od twórcy wydarzenia oraz swój pseudonim.
+
+![join-event.png](../assets/events/join-event.png)
+
 ### Menu wydarzenia
 
 Perspektywa twórcy wydarzenia.
@@ -34,14 +49,9 @@ Perspektywa twórcy wydarzenia.
 - **Edycja wydarzenia** - zmiana początkowych ustawień wydarzenia (tylko dla ról zarządzających wydarzeniem),
 - **Wsparcie techniczne** - przekierowanie do zewnętrznej strony z formularzem kontaktowym do twórców aplikacji
 
-## Tworzenie wydarzenia
+### Udostępnianie wydarzenia
 
-### Wstęp
+Aby zaprosić innych do wspólnej zabawy, należy wejść z menu kontekstowego wydarzenia w "Udostępnij". 
+Następnie należy wybrać rodzaj roli, która ma dana zaproszona osoba reprezentować i skopiować kod zaproszenia do schowka.
 
-1. Naciśnij przycisk "Utwórz wydarzenie" w widoku głównym aplikacji.
-2. Wypełnij podane pola w formularzu tworzenia wydarzenia.
-
-![event-create.png](../assets/events/event-create.png)
-![event-create-advanced.png](../assets/events/event-create-advanced.png)
-
-###
+![event-share.png](../assets/events/event-share.png)
