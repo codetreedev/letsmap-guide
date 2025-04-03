@@ -7,7 +7,7 @@
 
 #### W formularzu do tworzenia nowego punktu trzeba uzupełnić:
 * **Hasło do zebrania punktu** – możesz zostawić te pole puste i hasło samo się wygeneruje.
-  Jeśli chcesz, możesz też ustawić własne 4 znakowe hasło, który zawiera tylko znaki A-Z, a-z, 0-9, myślnik oraz spację.
+  Jeśli chcesz, możesz też ustawić własne 4 znakowe hasło, które zawiera tylko znaki A-Z, a-z, 0-9, myślnik oraz spację.
 * **Nazwę punktu** – widoczna, gdy naciśniemy na punkt na mapie lub w wyszukiwarce punktów.
 * **Typ punkt** – zostały opisane wyżej.
 * **Kategorie punktów** – zostały opisane wyżej.
