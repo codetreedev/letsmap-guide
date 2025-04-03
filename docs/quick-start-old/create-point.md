@@ -6,8 +6,8 @@
   poprzez przytrzymanie na mapie"
 
 #### W formularzu do tworzenia nowego punktu trzeba uzupełnić:
-* **Kod punktu** – możesz zostawić te pole puste i kod sam się wygeneruje.
-  Jeśli chcesz, możesz też ustawić własny 4 znakowy kod, który zawierać tylko znaki A-Z, a-z, 0-9, myślnik oraz spację.
+* **Hasło do zebrania punktu** – możesz zostawić te pole puste i hasło samo się wygeneruje.
+  Jeśli chcesz, możesz też ustawić własne 4 znakowe hasło, które zawiera tylko znaki A-Z, a-z, 0-9, myślnik oraz spację.
 * **Nazwę punktu** – widoczna, gdy naciśniemy na punkt na mapie lub w wyszukiwarce punktów.
 * **Typ punkt** – zostały opisane wyżej.
 * **Kategorie punktów** – zostały opisane wyżej.
@@ -26,18 +26,18 @@ szybciej dodawać punkty.
 
 #### Można rozłożyć punkt w rzeczywistości
 Aby gra była możliwa do przeprowadzenia, wymagane jest rozłożenie punktu z aplikacji w rzeczywistości. By to zrobić, 
-trzeba wydrukować lub przepisać na kartkę kod punktu i rozwiesić w miejscu, które jest zgodne z tym, co pokazuje 
+trzeba wydrukować lub przepisać na kartkę hasło do zebrania punktu i rozwiesić w miejscu, które jest zgodne z tym, co pokazuje 
 aplikacja. Można też dodać wskazówki w opisie punktu, które pomogą w znalezieniu punktu.
 
 #### Można rozłożyć punkt wirtualnie
 Kolejnym sposobem rozkładania i zbierania punktów jest wykorzystanie lokalizacji na mapie i GPS (bez czteroznakowego 
-kodu). Jeśli wybierzesz odpowiednią opcję zaawansowaną wydarzenia, to będziesz mógł w każdym punkcie wybrać czy jest 
+hasła). Jeśli wybierzesz odpowiednią opcję zaawansowaną wydarzenia, to będziesz mógł w każdym punkcie wybrać czy jest 
 zbieralny po GPS czy nie. Problemem tego rozwiązania jest dokładność GPS, która może być różna w zależności od terenu 
 oraz urządzenia, na którym aplikacja jest uruchomiona.
 
 #### Zbieranie punktów przez drużyny
 Zebrać punkt można na dwa sposoby:
-* drużyna musi przyjść na miejsce, znaleźć czteroznakowy kod, który rozwiesili organizatorzy wydarzenia, nacisnąć 
+* drużyna musi przyjść na miejsce, znaleźć czteroznakowe hasło, który rozwiesili organizatorzy wydarzenia, nacisnąć 
   przycisk "zbierz punkt" i wpisać go do aplikacji.
 * drużyna musi włączyć lokalizację GPS i przyjść na miejsce punktu. Wyskoczy wtedy okno z możliwością zebrania punktu. 
   Uczestnik może wymusić uruchomienie okna, wciskając przycisk "Zbierz punkt przez GPS" w aplikacji.
