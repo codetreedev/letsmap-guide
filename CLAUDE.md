@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a documentation website for "Let's Map" (previously HarcMap), a mobile application for scouting events and navigation. The documentation is built using Docsify, a dynamic documentation site generator that serves markdown files directly without the need for static site generation.
+This is a documentation website for "Let's Map" (previously HarcMap), a mobile application for organizing dynamic city and outdoor games, such as scavenger hunts, rallies, or field activities. The documentation is built using Docsify, a dynamic documentation site generator that serves markdown files directly without the need for static site generation.
 
 ## Development Commands
 
