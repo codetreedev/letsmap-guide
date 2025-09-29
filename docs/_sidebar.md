@@ -11,6 +11,7 @@
     * [Jak wysłać aktualności?](features/notifications.md#jak-wysłać-aktualności)
     * [Jak zarządzać aktualnościami?](features/notifications.md#jak-zarządzać-aktualnościami)
   * [Plecak drużyny](features/backpack.md?id=plecak-drużyny)
+  * [Sklep w aplikacji](features/market.md?id=sklep-w-aplikacji)
 
 
 [//]: # (  * [Zarządzanie użytkownikami]&#40;features/users-management.md&#41;)
