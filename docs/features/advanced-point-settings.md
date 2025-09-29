@@ -6,7 +6,7 @@ Punkty rozmieszczane na mapie są najważniejszymi elementami aplikacji, dlatego
 Formularz tworzenia punktów składa się z pięciu sekcji:
 1. Informacje ogólne:
    - Nazwa punktu – Nazwa punktu widoczna dla uczestników 
-   - Kod punktu – Składający się z przynajmniej trzech znaków kod, który po wpisaniu do aplikacji umożliwi drużynom zebranie punktu. 
+   - Hasło do zebrania punktu – Składające się z przynajmniej trzech znaków hasło, które po wpisaniu do aplikacji umożliwi drużynom zebranie punktu. 
    - Opis punktu – Opis punktu widoczny dla użytkowników, można zawrzeć w nim fabularną historię, zagadkę lub podpowiedzi gdzie dokładnie szukać karteczki z punktem
 2. Typ punktu
    - Typ zbieralności punktu – punkty mogą być możliwe do zebrania tylko przez jedną drużynę lub dostępne do zebrania przez wszystkie drużyny

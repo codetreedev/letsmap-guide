@@ -23,7 +23,7 @@ Możesz zainstalować aplikację Let's Map z [Google Play](https://play.google.c
    - Kategoria punktu
    - Pozycja punktu na mapie
 3. Wypełnij opcjonalne pola:
-   - Kod punktu
+   - Hasło do zebrania punktu
    - Opis punktu
    - Wiadomość po zebraniu punktu
    - Czy zbieralny po GPS
