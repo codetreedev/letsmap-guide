@@ -4,8 +4,24 @@
 
 * [Szybki start](quick-start.md?id=szybki-start)
 
+* Lista wydarzeń
+  * [Dołącz do wydarzenia]()
+  * [Aktualne wydarzenia]()
+  * [Kopiowanie i resetowanie]()
+  * [Historia i archiwum]()
+  * [Ustawienia]()
+
+* Zarządzanie wydarzeniem
+  * [Tworzenie wydarzenia](event-management/creating-event.md)
+  * [Zarządzanie kategoriami punktów](event-management/managing-point-categories.md)
+  * [Zarządzanie punktami](event-management/managing-points.md)
+    * [Zaawansowane ustawienia punktu](features/advanced-point-settings.md?id=zaawansowane-ustawienia-punktu)
+  * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md)
+  * [Zarządzanie drużynami](event-management/managing-teams.md)
+
+* [Zarządzanie kontem]()
+
 * Funkcjonalności
-  * [Zaawansowane ustawienia punktu](features/advanced-point-settings.md?id=zaawansowane-ustawienia-punktu)
   * [Aktualności w wydarzeniu](features/notifications.md#aktualności-w-wydarzeniu)
     * [Przykładowy wygląd aktualności](features/notifications.md#przykładowy-wygląd-aktualności)
     * [Jak wysłać aktualności?](features/notifications.md#jak-wysłać-aktualności)
@@ -17,9 +33,7 @@
       * [Najczęstsze problemy](features/market.md#najczęstsze-problemy)
       * [Tips & Tricks](features/market.md#tips--tricks)
 
-
-[//]: # (  * [Zarządzanie użytkownikami]&#40;features/users-management.md&#41;)
-[//]: # (  * [Zarządzanie wydarzeniami]&#40;features/events-management.md&#41;)
+* [Masz pytania?]()
 
 [//]: # (* Poradniki)
 [//]: # (  *  [Jak stworzyć pierwsze wydarzenie?]&#40;tutorials/first-event.md&#41;)

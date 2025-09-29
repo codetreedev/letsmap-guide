@@ -1,3 +1,0 @@
-# Zarządzanie wydarzeniami
-
-...
