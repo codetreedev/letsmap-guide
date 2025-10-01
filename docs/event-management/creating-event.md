@@ -168,9 +168,8 @@ Po wypełnieniu wszystkich wymaganych pól:
 ## Następne kroki
 
 Po utworzeniu wydarzenia możesz:
-1. [Zarządzać punktami na mapie](../features/points-management.md)
-2. [Konfigurować drużyny](../features/teams.md)
-3. [Monitorować postępy uczestników](../features/monitoring.md)
-4. [Zarządzać funkcjami rynku](../features/market.md)
-
-Twoje wydarzenie jest teraz gotowe do użycia. Udostępnij odpowiednie klucze dostępu uczestnikom i rozpocznij grę!
+1. [Zarządzaj punktami na mapie](event-management/managing-points.md)
+2. [Konfiguruj kategorie punktów](event-management/managing-point-categories.md)
+3. [Zapraszaj uczestników i organizatorów](event-management/inviting-participants-organizers.md)
+4. [Zarządzaj drużynami](event-management/managing-teams.md)
+5. [Monitoruj postępy uczestników](event-management/scoreboard.md)

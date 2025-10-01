@@ -19,6 +19,7 @@
     * [Zaawansowane ustawienia punktu](features/advanced-point-settings.md?id=zaawansowane-ustawienia-punktu)
   * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md)
   * [Zarządzanie drużynami](event-management/managing-teams.md)
+  * [Monitoruj postępy drużyn](event-management/scoreboard.md)
 
 * [Zarządzanie kontem]()
 
