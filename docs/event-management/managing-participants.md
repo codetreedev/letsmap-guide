@@ -47,17 +47,10 @@ Zarządzanie uczestnikami w Let's Map obejmuje kompleksowy system ról, uprawnie
 #### Zarządzanie rolami:
 ```
 Hierarchia uprawnień do zmiany ról:
-Twórca → może zmieniać wszystkie role
-Administrator → może zarządzać zespołami i obserwatorami
+Twórca → może zmieniać role administratorów i obserwatorów
+Administrator → może zmieniać role administratorów i obserwatorów
 Obserwator → nie może edytować ról
 Lider zespołu → może przekazać swoją rolę innemu członkowi zespołu
 Członek zespołu → nie może edytować ról
 ```
 
-## Najlepsze praktyki
-
-### Planowanie struktury uczestników
-
-#### Przed wydarzeniem:
-1. **Zaplanuj role** - określ, ile potrzebujesz administratorów i obserwatorów
-2. **Komunikuj zasady** - jasno określ oczekiwania dla każdej roli
