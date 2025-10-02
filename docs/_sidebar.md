@@ -18,7 +18,7 @@
   * [Zarządzanie punktami](event-management/managing-points.md)
   * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md)
   * [Zarządzanie uczestnikami](event-management/managing-participants.md)
-  * [Monitoruj postępy drużyn](event-management/scoreboard.md)
+  * [Monitorowanie postępów drużyn](event-management/scoreboard.md)
 
 * [Zarządzanie kontem]()
 
