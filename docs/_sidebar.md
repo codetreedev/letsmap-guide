@@ -4,12 +4,12 @@
 
 * [Szybki start](quick-start.md?id=szybki-start)
 
-* Lista wydarzeń
-  * [Dołącz do wydarzenia]()
-  * [Aktualne wydarzenia]()
-  * [Kopiowanie i resetowanie]()
-  * [Historia i archiwum]()
-  * [Ustawienia]()
+[//]: # (* Lista wydarzeń)
+[//]: # (  * [Dołącz do wydarzenia]&#40;&#41;)
+[//]: # (  * [Aktualne wydarzenia]&#40;&#41;)
+[//]: # (  * [Kopiowanie i resetowanie]&#40;&#41;)
+[//]: # (  * [Historia i archiwum]&#40;&#41;)
+[//]: # (  * [Ustawienia]&#40;&#41;)
 
 * Zarządzanie wydarzeniem
   * [Tworzenie wydarzenia](event-management/creating-event.md)
@@ -20,7 +20,7 @@
   * [Zarządzanie uczestnikami](event-management/managing-participants.md)
   * [Monitorowanie postępów drużyn](event-management/scoreboard.md)
 
-* [Zarządzanie kontem]()
+[//]: # (* [Zarządzanie kontem]&#40;&#41;)
 
 * Funkcjonalności
   * [Aktualności w wydarzeniu](features/notifications.md#aktualności-w-wydarzeniu)
@@ -34,7 +34,7 @@
       * [Najczęstsze problemy](features/market.md#najczęstsze-problemy)
       * [Tips & Tricks](features/market.md#tips--tricks)
 
-* [Masz pytania?]()
+[//]: # (* [Masz pytania?]&#40;&#41;)
 
 [//]: # (* Poradniki)
 [//]: # (  *  [Jak stworzyć pierwsze wydarzenie?]&#40;tutorials/first-event.md&#41;)
