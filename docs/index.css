@@ -18,12 +18,12 @@
   opacity: 1;
 }
 
-.hm .sidebar ul ul li a {
+.hm .sidebar ul li a {
   color: white;
   opacity: .8;
 }
 
-.hm .sidebar ul ul li.active > a {
+.hm .sidebar ul li.active > a {
   color: white;
 }
 
