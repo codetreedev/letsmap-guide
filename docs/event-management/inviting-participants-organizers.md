@@ -9,45 +9,13 @@ Let's Map wykorzystuje system 4-znakowych kluczy zaproszeniowych, które zapewni
 
 ## System kluczy dostępu
 
-Po utworzeniu wydarzenia system automatycznie generuje trzy różne klucze dostępu:
+Po utworzeniu wydarzenia system automatycznie generuje trzy różne klucze dostępu, każdy z różnymi uprawnieniami:
 
-### Rodzaje kluczy dostępu:
+- **Klucz administratora**: Dla współorganizatorów z pełnymi uprawnieniami
+- **Klucz obserwatora**: Dla osób z dostępem tylko do odczytu
+- **Klucz lidera drużyny**: Dla liderów drużyn uczestniczących w wydarzeniu
 
-**Klucz administratora**
-- **Uprawnienia**: Pełny dostęp do zarządzania wydarzeniem poza kopiowaniem i resetowaniem danych wydarzenia
-- **Możliwości**:
-  - Modyfikacja ustawień wydarzenia
-  - Zarządzanie wszystkimi uczestnikami
-  - Dodawanie i edycja punktów na mapie
-  - Zarządzanie kategoriami punktów
-  - Zmienianie ról innych użytkowników
-  - Banowanie i odbanowywanie uczestników
-  - Zarządzanie pozostałymi funkcjonalnościami wydarzenia
-  - Resetowanie kluczy zaproszeniowych
-- **Zalecane użycie**: Dla współorganizatorów wydarzenia
-
-**Klucz obserwatora**
-- **Uprawnienia**: Dostęp tylko do odczytu
-- **Możliwości**:
-  - Przeglądanie mapy wydarzenia
-  - Śledzenie postępów uczestników
-  - Dostęp do tablicy wyników
-  - Podgląd listy uczestników
-- **Ograniczenia**: Brak możliwości wprowadzania jakichkolwiek zmian
-- **Zalecane użycie**: Dla osób nadzorujących lub dokumentujących wydarzenie
-
-**Klucz lidera drużyny**
-- **Uprawnienia**: Zarządzanie własną drużyną
-- **Możliwości**:
-  - Tworzenie nowej drużyny podczas dołączania
-  - Zapraszanie członków do swojej drużyny
-  - Zbieranie punktów dla drużyny
-  - Zarządzanie kluczem członka drużyny
-  - Zarządzanie plecakiem drużyny (jeśli dostępny)
-  - Dokonywanie zakupów w sklepie (jeśli dostępny)
-  - Dostęp do wszystkich funkcji uczestnika
-- **Ograniczenia**: Nie może zarządzać innymi drużynami ani ustawieniami wydarzenia
-- **Zalecane użycie**: Dla liderów drużyn uczestniczących w wydarzeniu
+Szczegółowe informacje o rolach i uprawnieniach znajdziesz w przewodniku: [Role w wydarzeniu](event-management/roles-in-event.md)
 
 ## Proces zapraszania uczestników
 
@@ -132,6 +100,8 @@ Lider drużyny może:
 - Usuwaj lub banuj niepożądanych użytkowników
 - Poinformuj liderów drużyn o nieudostępnianiu kluczy członkom drużyny
 
+Więcej informacji o bezpieczeństwie ról i zarządzaniu użytkownikami znajdziesz w: [Role w wydarzeniu](event-management/roles-in-event.md)
+
 ## Wskazówki i najlepsze praktyki
 
 ### Planowanie struktury uczestników:
@@ -187,18 +157,11 @@ Lider drużyny może:
 
 ### Problemy z uprawnieniami:
 
-**Użytkownik nie widzi funkcji**:
-- Sprawdź rolę użytkownika na liście uczestników
-- Upewnij się, że ma odpowiednie uprawnienia
-- Sprawdź ustawienia wydarzenia (niektóre funkcje mogą być wyłączone)
-
-**Nie można zmieniać ról**:
-- Tylko twórca i administratorzy mogą zmieniać role
-- Niektóre role (lider drużyny) nie mogą być zmieniane
-- Sprawdź swoje uprawnienia
+Jeśli uczestnicy mają problemy z dostępem do funkcji lub nie widzą oczekiwanych opcji, sprawdź ich role i uprawnienia. Szczegółowe informacje o rozwiązywaniu problemów z rolami znajdziesz w: [Role w wydarzeniu](event-management/roles-in-event.md)
 
 ## Następne kroki
 
 Po zaproszeniu uczestników:
-1. [Zarządzaj drużynami](event-management/managing-teams.md)
-2. [Monitoruj postępy uczestników](event-management/scoreboard.md)
+1. [Poznaj szczegóły ról w wydarzeniu](event-management/roles-in-event.md)
+2. [Zarządzaj uczestnikami](event-management/managing-participants.md)
+3. [Monitoruj postępy uczestników](event-management/scoreboard.md)
