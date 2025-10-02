@@ -2,9 +2,11 @@
 
 Ten projekt powstał by ułatwić dzielenie się wiedzą na temat Let's Map. Jeśli chcesz pomóc w rozwijaniu tego projektu, podążaj za instrukcjami poniżej.
 
-## Link do projektu
+## Co możesz zrobić?
 
-[https://guide.letsmap.pl/](https://guide.letsmap.pl/)
+- Zgłosić błąd w dokumentacji
+- Napisać własną stronę opisującą jakąś funkcjonalność
+- Napisać poradnik jak w ciekawy sposób wykorzystać aplikację
 
 ## Jak pomóc?
 
@@ -12,6 +14,10 @@ Ten projekt powstał by ułatwić dzielenie się wiedzą na temat Let's Map. Je�
 2. Napisz tytuł i krótki opis tego, co chcesz zmienić lub dodać.
 3. Napisz treść zmiany lub nowej strony / poradnika.
 4. Pamiętaj o dodaniu odpowiednich grafik, jeśli są potrzebne.
+
+## Link do projektu
+
+[https://guide.letsmap.pl/](https://guide.letsmap.pl/)
 
 ## Poprzednia instrukcja do aplikacji
 
