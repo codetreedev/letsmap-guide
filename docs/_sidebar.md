@@ -16,7 +16,6 @@
     * [Zaawansowane ustawienia wydarzenia](event-management/creating-event.md#_4-zaawansowane-ustawienia-gry)
   * [Zarządzanie kategoriami punktów](event-management/managing-point-categories.md)
   * [Zarządzanie punktami](event-management/managing-points.md)
-    * [Zaawansowane ustawienia punktu](features/advanced-point-settings.md?id=zaawansowane-ustawienia-punktu)
   * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md)
   * [Zarządzanie drużynami](event-management/managing-teams.md)
   * [Monitoruj postępy drużyn](event-management/scoreboard.md)
