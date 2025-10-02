@@ -11,6 +11,11 @@
     * [Jak wysłać aktualności?](features/notifications.md#jak-wysłać-aktualności)
     * [Jak zarządzać aktualnościami?](features/notifications.md#jak-zarządzać-aktualnościami)
   * [Plecak drużyny](features/backpack.md?id=plecak-drużyny)
+  * [Sklep w aplikacji](features/market.md?id=sklep-w-aplikacji)
+      * [Jak korzystać?](features/market.md#jak-korzystać-ze-sklepu)
+      * [Zaawansowane funkcje](features/market.md#zaawansowane-funkcje)
+      * [Najczęstsze problemy](features/market.md#najczęstsze-problemy)
+      * [Tips & Tricks](features/market.md#tips--tricks)
 
 
 [//]: # (  * [Zarządzanie użytkownikami]&#40;features/users-management.md&#41;)
