@@ -12,13 +12,13 @@
 [//]: # (  * [Ustawienia]&#40;&#41;)
 
 * Zarządzanie wydarzeniem
-  * [Tworzenie wydarzenia](event-management/creating-event.md)
+  * [Tworzenie wydarzenia](event-management/creating-event.md#tworzenie-wydarzenia)
     * [Zaawansowane ustawienia wydarzenia](event-management/creating-event.md#_4-zaawansowane-ustawienia-gry)
-  * [Zarządzanie kategoriami punktów](event-management/managing-point-categories.md)
-  * [Zarządzanie punktami](event-management/managing-points.md)
-  * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md)
-  * [Zarządzanie uczestnikami](event-management/managing-participants.md)
-  * [Monitorowanie postępów drużyn](event-management/scoreboard.md)
+  * [Zarządzanie kategoriami punktów](event-management/managing-point-categories.md#zarządzanie-kategoriami-punktów)
+  * [Zarządzanie punktami](event-management/managing-points.md#zarządzanie-punktami)
+  * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md#zapraszanie-uczestników-i-organizatorów)
+  * [Zarządzanie uczestnikami](event-management/managing-participants.md#zarządzanie-uczestnikami)
+  * [Monitorowanie postępów drużyn](event-management/scoreboard.md#monitorowanie-postępów-drużyn)
 
 [//]: # (* [Zarządzanie kontem]&#40;&#41;)
 
