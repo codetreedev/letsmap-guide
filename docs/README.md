@@ -27,23 +27,23 @@ Aplikacja umożliwia zbieranie punktów na dwa sposoby:
 
 ### 🚀 Nowy użytkownik?
 
-1. **[Szybki start](quick-start.md)** – zainstaluj aplikację i stwórz pierwsze wydarzenie w 5 minut
-2. **[Tworzenie wydarzenia](event-management/creating-event.md)** – poznaj wszystkie opcje konfiguracji gry
-3. **[Dodawanie punktów](event-management/managing-points.md)** – naucz się rozmieszczać punkty na mapie
-4. **[Zapraszanie uczestników](event-management/inviting-participants-organizers.md)** – dowiedz się, jak dołączyć graczy do wydarzenia
+1. **[Szybki start](quick-start.md#szybki-start)** – zainstaluj aplikację i stwórz pierwsze wydarzenie w 5 minut
+2. **[Tworzenie wydarzenia](event-management/creating-event.md#tworzenie-wydarzenia)** – poznaj wszystkie opcje konfiguracji gry
+3. **[Dodawanie punktów](event-management/managing-points.md#zarządzanie-punktami)** – naucz się rozmieszczać punkty na mapie
+4. **[Zapraszanie uczestników](event-management/inviting-participants-organizers.md#zapraszanie-uczestników-i-organizatorów)** – dowiedz się, jak dołączyć graczy do wydarzenia
 
 ### 📚 Kluczowe funkcje
 
-- **[Zarządzanie uczestnikami](event-management/managing-participants.md)** – zapraszaj graczy i twórz drużyny
-- **[Kategorie punktów](event-management/managing-point-categories.md)** – organizuj punkty według typu i wartości
-- **[Monitorowanie postępów](event-management/scoreboard.md)** – śledź wyniki na żywo
+- **[Zarządzanie uczestnikami](event-management/managing-participants.md#zarządzanie-uczestnikami)** – zapraszaj graczy i twórz drużyny
+- **[Kategorie punktów](event-management/managing-point-categories.md#zarządzanie-kategoriami-punktów)** – organizuj punkty według typu i wartości
+- **[Monitorowanie postępów](event-management/scoreboard.md#tabela-wyników)** – śledź wyniki na żywo
 
 ### 🚀 Zaawansowane funkcje
 
 - **[Zaawansowane ustawienia wydarzenia](event-management/creating-event.md#_4-zaawansowane-ustawienia-gry)** – dostosuj zasady gry do swoich potrzeb
-- **[Aktualności](features/notifications.md)** – komunikuj się z uczestnikami podczas gry
-- **[Plecak drużyny](features/backpack.md)** – system przedmiotów i zasobów
-- **[Sklep w aplikacji](features/market.md)** – dodaj wymianę punktów na przedmioty
+- **[Aktualności](features/notifications.md#aktualności-w-wydarzeniu)** – komunikuj się z uczestnikami podczas gry
+- **[Plecak drużyny](features/backpack.md#plecak-drużyny)** – system przedmiotów i zasobów
+- **[Sklep w aplikacji](features/market.md#sklep-w-aplikacji)** – dodaj wymianę punktów na przedmioty
 
 ### 🌐 Poznaj więcej
 
