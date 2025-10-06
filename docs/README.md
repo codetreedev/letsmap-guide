@@ -25,7 +25,7 @@ Aplikacja umożliwia zbieranie punktów na dwa sposoby:
 
 ## Zacznij tutaj
 
-### 🚀 Nowy użytkownik?
+### 💡 Nowy użytkownik
 
 1. **[Szybki start](quick-start.md#szybki-start)** – zainstaluj aplikację i stwórz pierwsze wydarzenie w 5 minut
 2. **[Tworzenie wydarzenia](event-management/creating-event.md#tworzenie-wydarzenia)** – poznaj wszystkie opcje konfiguracji gry
