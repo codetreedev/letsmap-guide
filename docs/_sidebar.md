@@ -3,7 +3,7 @@
 </a>
 
 * [Strona główna](/#przewodnik-po-let39s-map)
-* [Szybki start](quick-start.md?id=szybki-start)
+* [Szybki start](quick-start.md#szybki-start)
 
 [//]: # (* Lista wydarzeń)
 [//]: # (  * [Dołącz do wydarzenia]&#40;&#41;)
