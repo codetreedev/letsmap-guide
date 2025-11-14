@@ -1,7 +1,7 @@
-# Niedogodności związane z brakiem internetu lub lokalizacji
+# Problemy związane z brakiem internetu lub lokalizacji GPS
 Autor: **Emil Twardzik**
 
-Podczas korzystania z aplikacji Let's Map, niektórzy użytkownicy mogą zauważyć, że ich lokalizacja na mapie nie aktualizuje się lub punkty zbierane na bazie pozycji gracza nie mogą być zebrane w danym momencie. Ten przewodnik wyjaśnia przyczyny tych problemów oraz przedstawia rozwiązania.
+Podczas korzystania z aplikacji Let's Map, niektórzy użytkownicy mogą zauważyć, że ich lokalizacja na mapie nie aktualizuje się lub punkty zbierane na bazie lokalizacji użytkownika nie mogą być zebrane w danym momencie. Ten przewodnik wyjaśnia przyczyny tych problemów oraz przedstawia rozwiązania.
 
 ## Dlaczego lokalizacja może być niedokładna?
 
@@ -35,11 +35,11 @@ Dokładność GPS zależy od wielu czynników zewnętrznych:
 
 ### 1. Zbieranie punktów za pomocą lokalizacji użytkownika
 
-W grze istnieje rodzaj punktu, który jest naniesiony tylko wirtualnie i zbierany jest za pomocą lokalizacji. W przypadku problemów z GPS możliwa będzie konieczność zebrania punktu w aplikacji jeszcze raz.
+W aplikacji istnieje rodzaj punktu, który jest naniesiony tylko wirtualnie i zbierany jest za pomocą lokalizacji. W przypadku problemów z GPS możliwa będzie konieczność zebrania punktu jeszcze raz.
 
 ### 2. Aktualizacja i dokładność mapy
 
-Zarówno w przypadku braku internetu, jak i problemów z GPS, mapa będąca centralnym punktem rozgrywki może nie działać poprawnie. Charakteryzuje się to:
+Zarówno w przypadku braku internetu, jak i problemów z GPS, mapa będąca centralnym elementem wydarzenia może nie działać poprawnie. Charakteryzuje się to:
 
 - Brakiem przemieszczania się kółka użytkownika
 - Zmianą koloru kółka na szary
