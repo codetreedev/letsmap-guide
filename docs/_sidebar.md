@@ -20,6 +20,7 @@
   * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md#zapraszanie-uczestników-i-organizatorów)
   * [Zarządzanie uczestnikami](event-management/managing-participants.md#zarządzanie-uczestnikami)
   * [Monitorowanie postępów drużyn](event-management/scoreboard.md#monitorowanie-postępów-drużyn)
+  * [Problemy techniczne (Internet, GPS)](event-management/connection-issues.md#problemy-związane-z-brakiem-internetu-lub-lokalizacji-gps)
 
 [//]: # (* [Zarządzanie kontem]&#40;&#41;)
 
