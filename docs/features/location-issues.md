@@ -7,7 +7,7 @@ Podczas korzystania z aplikacji Let's Map, niektórzy użytkownicy mogą zauważ
 
 ### 1. Rodzaj urządzenia mobilnego i system operacyjny
 
-Aplikacja działa sprawniej na urządzeniach z iOS. Problem może występować ze względu na brak udzielonych dostępów do systemu operacyjnego:
+**Aplikacja działa sprawniej na urządzeniach z iOS**. Problem może występować ze względu na brak udzielonych dostępów do systemu operacyjnego:
 
 #### Na urządzeniach Android:
 - Aplikacja nie ma przyznanych uprawnień do lokalizacji
