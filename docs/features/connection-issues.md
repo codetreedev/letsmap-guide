@@ -1,11 +1,21 @@
-# Niedokładnie działająca lokalizacja w aplikacji
+# Niedogodności związane z brakiem internetu lub lokalizacji
 Autor: **Emil Twardzik**
 
-Podczas korzystania z aplikacji Let's Map, niektórzy użytkownicy mogą zauważyć, że ich lokalizacja na mapie jest niedokładna lub nie aktualizuje się prawidłowo. Ten przewodnik wyjaśnia przyczyny tych problemów oraz przedstawia rozwiązania.
+Podczas korzystania z aplikacji Let's Map, niektórzy użytkownicy mogą zauważyć, że ich lokalizacja na mapie nie aktualizuje się lub punkty zbierane na bazie pozycji gracza nie mogą być zebrane w danym momencie. Ten przewodnik wyjaśnia przyczyny tych problemów oraz przedstawia rozwiązania.
 
 ## Dlaczego lokalizacja może być niedokładna?
 
-### 1. Rodzaj urządzenia mobilnego i system operacyjny
+### 1. Warunki środowiskowe
+
+Dokładność GPS zależy od wielu czynników zewnętrznych:
+
+- **Zabudowania i budynki** – sygnał GPS odbija się od ścian budynków, co powoduje błędy w pomiarze (tzw. efekt multipath)
+- **Gęsta roślinność** – drzewa i gęste zarośla osłabiają sygnał satelitarny
+- **Wnętrza budynków** – GPS praktycznie nie działa w pomieszczeniach zamkniętych
+- **Warunki pogodowe** – gęste chmury i burze mogą wpływać na dokładność
+- **Wąwozy miejskie** – w wąskich ulicach między wysokimi budynkami sygnał jest mocno zniekształcony
+
+### 2. Rodzaj urządzenia mobilnego i system operacyjny
 
 **Aplikacja działa sprawniej na urządzeniach z iOS**. Problem może występować ze względu na brak udzielonych dostępów do systemu operacyjnego:
 
@@ -20,16 +30,6 @@ Podczas korzystania z aplikacji Let's Map, niektórzy użytkownicy mogą zauważ
 - Lokalizacja ustawiona na "Podczas korzystania z aplikacji" zamiast "Zawsze"
 - Wyłączona opcja "Dokładna lokalizacja"
 - Ograniczenia związane z trybem niskiego zużycia energii
-
-### 2. Warunki środowiskowe
-
-Dokładność GPS zależy od wielu czynników zewnętrznych:
-
-- **Zabudowania i budynki** – sygnał GPS odbija się od ścian budynków, co powoduje błędy w pomiarze (tzw. efekt multipath)
-- **Gęsta roślinność** – drzewa i gęste zarośla osłabiają sygnał satelitarny
-- **Wnętrza budynków** – GPS praktycznie nie działa w pomieszczeniach zamkniętych
-- **Warunki pogodowe** – gęste chmury i burze mogą wpływać na dokładność
-- **Wąwozy miejskie** – w wąskich ulicach między wysokimi budynkami sygnał jest mocno zniekształcony
 
 ## Jakie funkcjonalności mogą nie działać w wyniku problemów z GPS lub internetem?
 
