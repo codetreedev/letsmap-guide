@@ -3,6 +3,9 @@ Autor: **Emil Twardzik**
 
 Podczas korzystania z aplikacji Let's Map, niektórzy użytkownicy mogą zauważyć, że ich lokalizacja na mapie nie aktualizuje się lub punkty zbierane na bazie lokalizacji użytkownika nie mogą być zebrane w danym momencie. Ten przewodnik wyjaśnia przyczyny tych problemów oraz przedstawia rozwiązania.
 
+
+**Aplikacja działa sprawniej na urządzeniach z iOS**.
+
 ## Dlaczego lokalizacja może być niedokładna?
 
 ### 1. Warunki środowiskowe
@@ -17,7 +20,7 @@ Dokładność GPS zależy od wielu czynników zewnętrznych:
 
 ### 2. Rodzaj urządzenia mobilnego i system operacyjny
 
-**Aplikacja działa sprawniej na urządzeniach z iOS**. Problem może występować ze względu na brak udzielonych dostępów do systemu operacyjnego:
+Problemy mogą występować ze względu na brak udzielonych dostępów do systemu operacyjnego:
 
 #### Na urządzeniach Android:
 - Aplikacja nie ma przyznanych uprawnień do lokalizacji
