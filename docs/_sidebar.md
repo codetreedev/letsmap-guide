@@ -35,7 +35,9 @@
       * [Zaawansowane funkcje](features/market.md#zaawansowane-funkcje)
       * [Najczęstsze problemy](features/market.md#najczęstsze-problemy)
 
-[//]: # (* [Masz pytania?]&#40;&#41;)
+* Aktualizacje wersji
+  * [5.6.12](versions/5.6.12.md#wersja-5612)
 
+[//]: # (* [Masz pytania?]&#40;&#41;)
 [//]: # (* Poradniki)
 [//]: # (  *  [Jak stworzyć pierwsze wydarzenie?]&#40;tutorials/first-event.md&#41;)
