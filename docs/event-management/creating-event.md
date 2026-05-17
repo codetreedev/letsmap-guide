@@ -65,49 +65,81 @@ Aby utworzyć nowe wydarzenie:
 
 Opcjonalna konfiguracja zasad gry dla zaawansowanych organizatorów:
 
-#### Ustawienia mapy użytkownika:
+#### Ustawienia mapy użytkownika
 
-**Dostępność geolokalizacji**
-- Dostępna: Uczestnicy mogą używać GPS
+**Ustawienia geolokalizacji**
+- Dostępna: Uczestnicy mogą używać GPS i widzą swoją pozycję na mapie
 - Zabroniona: Geolokalizacja wyłączona dla uczestników
 
-**Wygląd zebranych punktów**
-- Częściowo widoczne: Zebrane punkty są pokazane na mapie jako półprzeźroczyste
-- Ukryte: Zebrane punkty są całkowicie ukryte
+**Wygląd zebranych punktów dla drużyny**
+- Częściowo przeźroczysty: Zebrane punkty są pokazane na mapie jako przyciemnione
+- Ukryty: Zebrane punkty są całkowicie ukryte na mapie
 
-#### Ustawienia funkcji użytkownika:
+**Tryb ciemności na mapie** *(eksperymentalne)*
+- Włączony: Mapa jest pokryta ciemnością — uczestnicy widzą tylko obszar wokół swojej pozycji GPS. Jako administrator możesz przetestować ten tryb zmieniając ustawienia mapy w prawym górnym rogu widoku mapy
+- Wyłączony: Mapa jest w pełni widoczna
+
+**Zasięg widoczności (dokładna lokalizacja)** *(eksperymentalne, widoczne gdy tryb ciemności włączony)*
+- Określa promień widocznego obszaru gdy GPS ma wysoką dokładność: 10 / 20 / 30 / 50 / 100 / 300 / 500 / 1000 metrów
+- Domyślnie: 30 metrów
+
+**Zasięg widoczności (niedokładna lokalizacja)** *(eksperymentalne, widoczne gdy tryb ciemności włączony)*
+- Określa promień widocznego obszaru gdy GPS ma niską dokładność: 5 / 10 / 20 / 30 / 50 metrów
+- Domyślnie: 5 metrów
+
+**Radar najbliższego punktu** *(eksperymentalne, widoczne gdy tryb ciemności włączony)*
+- Włączony: Na krawędzi widocznego obszaru pojawia się wskaźnik kierunku i odległości do najbliższego niezebranego punktu
+- Wyłączony: Radar jest ukryty
+
+**Liczba radarów** *(eksperymentalne, widoczne gdy radar włączony)*
+- Liczba punktów jednocześnie pokazywanych na radarze: 1 / 2 / 3 / 4 / 5
+
+**Podgląd kategorii punktu na radarze** *(eksperymentalne, widoczne gdy radar włączony)*
+- Włączony: Obok wskaźnika dystansu wyświetlana jest miniaturka punktu (kształt i kolor kategorii)
+- Wyłączony: Na radarze wyświetlany jest tylko dystans
+
+**Odkrywanie mapy (mgła wojny)** *(eksperymentalne, widoczne gdy tryb ciemności włączony)*
+- Włączone: Odwiedzone obszary pozostają widoczne na mapie. Uwaga: aktualnie odkryta mapa nie jest synchronizowana między urządzeniami
+- Wyłączone: Widoczny tylko obszar wokół bieżącej pozycji
+
+**Czas wygasania odkrytych kafelków** *(eksperymentalne, widoczne gdy odkrywanie mapy włączone)*
+- Określa po jakim czasie odkryte obszary znikają z mapy: 1 min / 3 min / 5 min / 10 min / 15 min / 30 min / 1 godzina / nie czyść (do wyczerpania limitu 10 000 lokalizacji)
+- Domyślnie: 5 minut
+
+#### Funkcje wydarzenia
 
 **Zbieranie punktów przez geolokalizację**
-- Jako domyślne: Standardowy sposób zbierania i tworzenia punktów
-- Opcjonalne: Punkty można zbierać zarówno przez GPS, jak i za pomocą hasła do zebrania punktu
-- Zabronione: Formularz tworzenia punktu ukrywa opcje zbierania punktów przez GPS
+- Domyślnie: Punkty można zbierać przez GPS — domyślna opcja przy tworzeniu punktu
+- Opcjonalnie: Punkty można zbierać przez GPS, jednak domyślna opcja tworzenia to hasło
+- Zabronione: Zbieranie punktów przez GPS jest wyłączone
 
 **Dokładność do zebrania geolokalizacją**
-- Otwarta przestrzeń: Wymagana dokładność do 10 m do zebrania punktu GPS
-- Teren miejski / leśny: (Domyślna) Wymagana dokładność do 20 m do zbierania punktu GPS
-- Teren z przewyższeniami: Wymagana dokładność do 30 m do zbierania punktu GPS
+- Otwarta przestrzeń: Wymagana dokładność do 10 m
+- Teren miejski / leśny: Wymagana dokładność do 20 m
+- Teren z przewyższeniami: Wymagana dokładność do 30 m
 
 **Dostępność plecaka**
-- Dostępny: Uczestnicy i organizatorzy mogą korzystać z plecaka i przedmiotów w aplikacji
-- Zabroniony: Funkcja plecaka i przedmiotów jest wyłączona – po naciśnięciu ikony plecaka pojawia się komunikat, że funkcja jest niedostępna
+- Dostępny: Uczestnicy mogą korzystać z plecaka i przedmiotów
+- Wyłączony: Funkcja plecaka jest niedostępna
 
 **Dostępność wieloosobowych drużyn**
-- Dostępne: Możliwość zapraszania członków drużyny
-- Zabronione: Liderzy drużyn nie mogą zapraszać członków
+- Dostępne: Liderzy mogą zapraszać członków do swojej drużyny
+- Wyłączone: Liderzy nie mogą zapraszać członków
 
 **Dostępność sklepu**
-- Dostępny: Uczestnicy i organizatorzy mogą korzystać z funkcji sklepu
-- Zabroniony: Funkcjonalność sklepu jest wyłączona – po naciśnięciu ikony sklepu pojawia się komunikat, że funkcja jest niedostępna
+- Dostępny: Uczestnicy mogą korzystać ze sklepu
+- Wyłączony: Sklep jest niedostępny
 
-**Dostępność tablicy wyników**
+**Dostępność tabeli wyników**
 - Dostępna: Uczestnicy i organizatorzy widzą ranking
-- Zabroniona: Tablica wyników ukryta dla wszystkich – po naciśnięciu ikony rankingu pojawia się komunikat, że funkcja jest niedostępna
+- Wyłączona: Tablica wyników jest ukryta dla wszystkich
 
-### 5. Czas odświeżania mapy
+#### Funkcje organizatora
 
-- **Odświeżanie co**: 60 sekund
-- Określa jak często mapa jest aktualizowana dla uczestników i organizatorów podczas wydarzenia
-- Mapa jest dodatkowo aktualizowana przy każdym otwarciu aplikacji i konkretnych akcjach (np. zebranie punktu, wysłanie aktualności, zakupienie oferty ze sklepu itp.)
+**Śledzenie GPS drużyn**
+- Włączone: Pozycje GPS liderów drużyn są zbierane co 60 sekund i wyświetlane na mapie dla organizatorów
+- Wyłączone: Śledzenie GPS drużyn jest wyłączone
+- Śledzenie uczestników odbywa się wyłącznie w trakcie trwania wydarzenia
 
 ## Finalizowanie wydarzenia
 
