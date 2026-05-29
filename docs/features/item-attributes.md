@@ -35,7 +35,7 @@ Modyfikuje odległość wymaganą do zebrania punktu przez GPS.
 
 ### Promień widoczności
 
-Modyfikuje promień odkrytego obszaru na mapie w trybie ciemności (Darkness Mode).
+Modyfikuje promień odkrytego obszaru na mapie w trybie ciemności.
 
 **Parametr**: Bonus (metry) — wartość dodatnia zwiększa widoczny obszar, ujemna go zmniejsza.
 
@@ -60,7 +60,7 @@ Przyznaje dodatkowe punkty zwycięstwa za każdy zebrany punkt należący do wyb
 - Można dodać wiele atrybutów tego samego typu, ale każdy musi dotyczyć **innej kategorii**
 - Posiadając wiele sztuk przedmiotu, efekt jest mnożony przez ilość
 
-**Przykład**: Przedmiot z parametrem `+5 pts` dla kategorii "Zagadki", posiadany w 3 egzemplarzach, daje `+15 pts` za każdy zebrany punkt z tej kategorii.
+**Przykład**: Przedmiot z parametrem +5 punktów dla kategorii "Zagadki", posiadany w 3 egzemplarzach, daje łącznie +15 punktów za każdy zebrany punkt z tej kategorii.
 
 ---
 
@@ -78,4 +78,4 @@ Przyznaje jednorazowy bonus punktów zwycięstwa za każde zebrane X punktów z 
 - Można dodać wiele atrybutów tego samego typu, ale każdy musi dotyczyć **innej kategorii**
 - Posiadając wiele sztuk przedmiotu, efekt jest mnożony przez ilość
 
-**Przykład**: Atrybut z bonusem `+50 pts` i progiem `5` dla kategorii "Tajne" oznacza, że za każde 5 zebranych punktów tej kategorii drużyna dostaje +50 punktów. Przy 12 zebranych punktach bonus wynosi `+100 pts` (2 × 50, bo `floor(12/5) = 2`).
+**Przykład**: Atrybut z bonusem +50 punktów i progiem 5 dla kategorii "Tajne" oznacza, że za każde 5 zebranych punktów tej kategorii drużyna dostaje +50 punktów. Przy 12 zebranych punktach bonus naliczy się dwa razy, więc drużyna otrzyma +100 punktów.
