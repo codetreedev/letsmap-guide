@@ -1,0 +1,18 @@
+Atrybuty przedmiotów — nowy wymiar mechanik w Let's Map 🎒⚙️
+
+Przedmioty w plecaku do tej pory dawały punkty i otwierały dostęp do ukrytych punktów na mapie. Od teraz mogą robić znacznie więcej.
+
+Dodaliśmy atrybuty przedmiotów — każdy przedmiot może teraz posiadać jeden lub kilka efektów wpływających bezpośrednio na rozgrywkę:
+
+🔭 Zasięg zbierania GPS — przedmiot zwiększa (lub zmniejsza) odległość, z jakiej drużyna może zebrać punkt przez GPS
+🌑 Promień widoczności — w trybie ciemności przedmiot rozszerza obszar widoczny na mapie. Możesz zaprojektować grę, w której gracze muszą najpierw znaleźć „latarnię", żeby w ogóle zacząć eksplorację
+⭐ Dodatkowe punkty za kategorię — przedmiot przyznaje bonus za każdy zebrany punkt wybranej kategorii
+🏅 Bonus za komplet — przedmiot przyznaje bonus za każde X zebranych punktów z danej kategorii, nagradzając drużyny, które skupiają się na konkretnym celu
+
+Atrybuty można łączyć — jeden przedmiot może mieć kilka efektów jednocześnie. Ich działanie sumuje się z liczbą posiadanych egzemplarzy, więc zdobycie wielu kopii tego samego przedmiotu ma sens.
+
+W tej samej aktualizacji dopracowaliśmy też tryb ciemności: zmiana ustawień zasięgu widoczności działa teraz natychmiast bez odświeżania, a punkty poza zasięgiem widzenia gracza nie mogą być zebrane przez GPS.
+
+Chętnie usłyszymy, jakie mechaniki uda Wam się z tego zbudować 👇
+
+#letsmap #GraMiejska #GryTerenowe #OrganizacjaWydarzeń #TworzenieGier

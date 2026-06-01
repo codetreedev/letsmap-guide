@@ -1,0 +1,8 @@
+Więcej wygody, przewidywalność aplikacji ✅
+Dodaliśmy ostrzeżenie o niezapisanych zmianach, dzięki któremu łatwiej uniknąć przypadkowego zamknięcia formularza i utraty wpisanych danych.
+Usprawniliśmy też proces logowania i odzyskiwania dostępu do konta.
+Jeśli konto nie zostało jeszcze aktywowane, użytkownik może szybciej wrócić do formularza aktywacyjnego.
+Z kolei osoby korzystające z konta lite, które przypadkiem się wylogowały, mogą teraz łatwiej odnaleźć właściwy formularz i ponownie odzyskać dostęp do swojego konta.
+Poprawiliśmy również opisy w ofertach w sklepie, tak aby były bardziej zrozumiałe dla liderów tworzących oferty. Dzięki temu łatwiej poprawnie skonfigurować ofertę i ograniczyć ryzyko pomyłek.
+Niby są to drobniejsze zmiany, ale to właśnie one często najbardziej poprawiają codzienne korzystanie z aplikacji.
+ #letsmap #GraMiejska #GryTerenowe #OrganizacjaWydarzeń

@@ -1,0 +1,14 @@
+Kolejna nowa funkcja w Let’s Map! Obserwowanie lokalizacji drużyn 📍🗺️
+Dodaliśmy funkcję, która pozwala organizatorowi śledzić pozycję drużyn na żywo podczas wydarzenia.�Liderzy drużyn mogą wysyłać swoją lokalizację GPS, a organizator widzi wszystkie drużyny bezpośrednio na mapie wydarzenia.
+To rozwiązanie daje większą kontrolę nad przebiegiem gry terenowej i pozwala między innymi:
+* sprawdzić, gdzie aktualnie znajdują się drużyny,
+* reagować szybciej w razie problemów,
+* monitorować postęp uczestników,
+* lepiej koordynować wydarzenia rozgrywane na dużym obszarze.
+Funkcja działa przy spełnieniu kilku warunków:
+* włączony jest funkcja w ustawieniach zaawansowanych wydarzenia (Edycja wydarzenia > Opcja Zaawansowane > Funkcje Organizatora)
+* wydarzenie jest w trakcie trwania,
+* lokalizację może wysyłać tylko lider drużyny,
+Lokalizacja drużyn aktualizuje się automatycznie, dzięki czemu organizator ma bieżący podgląd sytuacji na mapie. 📡
+To kolejny krok w stronę jeszcze lepszej organizacji gier terenowych, rajdów i wydarzeń harcerskich.�Mamy już przygotowane kolejne nowości — obserwujcie nasz profil, żeby niczego nie przegapić 🔔
+ #letsmap #OrganizacjaWydarzeń #GraMiejska #GryTerenowe

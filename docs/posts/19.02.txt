@@ -1,0 +1,16 @@
+✅ Detale, których prawie nie widać — ale bez nich gra się sypie
+To nie są zmiany, które niesamowicie wyglądają.
+To zmiany, które robią stabilność.
+W tej aktualizacji dopracowaliśmy m.in.:
+✔ Blokada zbierania punktów po zakończeniu wydarzenia
+✔ Zabezpieczenia procesu usuwania konta
+✔ Automatyczne otwieranie mapy z domyślnym wyborem pozycji wydarzenia
+✔ Nowe, czytelniejsze maile systemowe
+✔ Alfabetyczną listę użytkowników (po nicku)
+✔ Potwierdzenia przy:
+– resecie kodów zaproszeń
+– edycji/usuwaniu powiadomień w przeszłości
+Let’s Map jest gotowe na większe wydarzenia i trudniejsze scenariusze.
+👉 Jeśli używasz aplikacji regularnie — zaktualizuj i daj znać, co czujesz.
+To właśnie z takich opinii biorą się kolejne zmiany 💚
+ #letsmap #OrganizacjaWydarzeń #GryTerenowe #GraMiejska #TworzenieGier

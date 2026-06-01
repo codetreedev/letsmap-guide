@@ -30,12 +30,18 @@
     * [Jak wysłać aktualność?](features/notifications.md#jak-wysłać-aktualności)
     * [Jak zarządzać aktualnościami?](features/notifications.md#jak-zarządzać-aktualnościami)
   * [Plecak drużyny](features/backpack.md?id=plecak-drużyny)
+  * [Atrybuty przedmiotów](features/item-attributes.md#atrybuty-przedmiotów)
+  * [Tryb ciemności](features/map-darkness.md#tryb-ciemności)
   * [Sklep w aplikacji](features/market.md?id=sklep-w-aplikacji)
       * [Jak korzystać?](features/market.md#jak-korzystać-ze-sklepu)
       * [Zaawansowane funkcje](features/market.md#zaawansowane-funkcje)
       * [Najczęstsze problemy](features/market.md#najczęstsze-problemy)
 
 * Aktualizacje wersji
+  * [6.0.0 (Planowane na 29 czerwca 2026)](versions/6.0.0.md#wersja-600)
+  * [5.9.0 (Planowane na 1 czerwca 2026)](versions/5.9.0.md#wersja-590)
+  * [5.8,0](versions/5.8.0.md#wersja-580)
+  * [5.7,0](versions/5.7.0.md#wersja-570)
   * [5.6.12](versions/5.6.12.md#wersja-5612)
 
 [//]: # (* [Masz pytania?]&#40;&#41;)

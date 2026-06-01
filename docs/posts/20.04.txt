@@ -1,0 +1,13 @@
+Nowa eksperymentalna funkcja w Let’s Map: tryb odkrywania mapy 🌙 🗺️
+Dodaliśmy nową opcję, którą można włączyć w ustawieniach wydarzenia: tryb ciemności na mapie.
+Po jego aktywowaniu mapa zostaje ukryta, a uczestnik widzi tylko obszar wokół swojej bieżącej pozycji.
+To rozwiązanie może całkowicie zmienić charakter rozgrywki i dodać jej jeszcze więcej napięcia, zaskakujących mechanik i strategi.
+W ramach tej funkcji można ustawić między innymi:
+- zasięg widoczności przy dokładnej i niedokładnej lokalizacji,
+- radar wskazujący najbliższy punkt,
+- liczbę radarów,
+- podgląd kategorii punktu na radarze,
+- odkrywanie mapy w stylu „mgły wojny” (mapa jest odkryta w miejscach wcześniej odwiedzonych).
+Na ten moment funkcja jest oznaczona jako eksperymentalna, więc zachęcamy do testowania jej szczególnie w mniejszych wydarzeniach i sprawdzenia, jak działa w praktyce w Waszym scenariuszu gry. My przetestowaliśmy i jesteśmy zadowoleni z efektów!
+Mamy jeszcze kilka nowości - zaobserwujcie nasz profil by o nich przeczytać w najbliższych postach. 🔔
+ #GraMiejska #GryTerenowe #OrganizacjaWydarzeń #letsmap

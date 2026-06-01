@@ -1,0 +1,15 @@
+📍 Płynniejsza mapa i jeszcze lepsza lokalizacja
+Wprowadziliśmy zmiany, które realnie poprawiają korzystanie z mapy w trakcie gry.
+🎥 Na nagraniu zobaczysz, jak to działa w praktyce z zaawansowaną konfiguracją trybu ciemności, który uwzględnia:
+• Maksymalną liczbę radarów pokazująca najbliższe punkty
+• Podgląd kategorii punktu przy każdym z radarów
+• Odkrywanie mapy wraz z postępem gry
+Co się zmieniło poza nową funkcjonalnością?
+• ostatnia znana pozycja pojawia się od razu po wejściu na mapę
+• mniej „skakania” punktu przy poruszaniu się w terenie z gorszym GPS
+• ruch pozycji jest teraz animowany i bardziej naturalny
+• przycisk wyśrodkowania działa precyzyjniej
+• mapa może automatycznie podążać za Twoją lokalizacją
+👉 Opcję śledzenia znajdziesz w ustawieniach mapy
+Daj znać, czy czujesz różnicę 👀
+#GraMiejska #GryTerenowe #letsmap
