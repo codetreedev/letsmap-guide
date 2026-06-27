@@ -38,8 +38,8 @@
       * [Najczęstsze problemy](features/market.md#najczęstsze-problemy)
 
 * Aktualizacje wersji
-  * [6.0.0 (Planowane na 29 czerwca 2026)](versions/6.0.0.md#wersja-600)
-  * [5.9.0 (Planowane na 1 czerwca 2026)](versions/5.9.0.md#wersja-590)
+  * [6.0.0 (Planowane na 7 lipca 2026)](versions/6.0.0.md#wersja-600)
+  * [5.9.0](versions/5.9.0.md#wersja-590)
   * [5.8,0](versions/5.8.0.md#wersja-580)
   * [5.7,0](versions/5.7.0.md#wersja-570)
   * [5.6.12](versions/5.6.12.md#wersja-5612)
