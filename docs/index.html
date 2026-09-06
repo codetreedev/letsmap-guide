@@ -78,6 +78,30 @@
       }
     });
   </script>
+  <!-- Tracks search queries, flagging ones with no results, to surface content gaps -->
+  <script>
+    (function () {
+      var searchTimer;
+      document.addEventListener('input', function (e) {
+        if (!e.target.matches('.search input[type="search"]')) return;
+        var query = e.target.value.trim();
+        clearTimeout(searchTimer);
+        if (!query) return;
+        // Wait longer than docsify's own 100ms search debounce so the results panel is settled.
+        searchTimer = setTimeout(function () {
+          if (!window.umami) return;
+          var panel = document.querySelector('.search .results-panel');
+          var resultCount = panel ? panel.querySelectorAll('.matching-post').length : 0;
+          umami.track('search', {
+            query: query,
+            hasResults: resultCount > 0,
+            resultCount: resultCount,
+            page: location.hash || '/'
+          });
+        }, 800);
+      });
+    })();
+  </script>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
   <link rel="stylesheet" href="index.css" />
 </head>
