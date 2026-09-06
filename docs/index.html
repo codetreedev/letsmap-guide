@@ -58,7 +58,26 @@
   </script>
 
   <!-- Umami analytics — cookieless, no consent banner needed. data-domains keeps dev/localhost out of the stats. -->
-  <script defer src="https://analytics.letsmap.pl/script.js" data-website-id="c60d399d-fabc-4c97-8998-a850e3031a70"></script>
+  <script defer src="https://analytics.letsmap.pl/script.js" data-website-id="c60d399d-fabc-4c97-8998-a850e3031a70" data-domains="guide.letsmap.pl"></script>
+  <!-- Tracks clicks on app store links and any other outbound link (GitHub, letsmap.pl, etc.) -->
+  <script>
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest('a[href]');
+      if (!a || !window.umami) return;
+      var url;
+      try { url = new URL(a.href, location.href); } catch (err) { return; }
+      if (url.hostname === location.hostname) return;
+
+      if (url.hostname.indexOf('play.google.com') !== -1 || url.hostname.indexOf('apps.apple.com') !== -1) {
+        umami.track('app-store-click', {
+          store: url.hostname.indexOf('play.google.com') !== -1 ? 'google-play' : 'app-store',
+          page: location.hash || '/'
+        });
+      } else {
+        umami.track('outbound-link', { url: a.href, page: location.hash || '/' });
+      }
+    });
+  </script>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
   <link rel="stylesheet" href="index.css" />
 </head>
