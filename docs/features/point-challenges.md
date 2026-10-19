@@ -43,7 +43,7 @@ Odpowiedź jest oceniana w całości — jest albo w pełni poprawna, albo błę
   - **Dozwolone znaki**: Dowolne, Tylko litery, Tylko cyfry lub Litery i cyfry. Drużyna widzi przy polu odpowiedzi, jakie znaki są dozwolone, a odpowiedź z innymi znakami nie jest liczona jako próba.
   - **Kod o stałej długości (kratki)** — drużyna wpisuje kod znak po znaku, jak w kłódce szyfrowej. Kod ma od 1 do 12 znaków, bez spacji i bez innych pisowni; liczba kratek wynika z długości odpowiedzi.
 - **Wybór z listy** — przy jednokrotnym wyborze zaznacz dokładnie jedną poprawną odpowiedź, przy wielokrotnym co najmniej jedną; drużyna musi zaznaczyć wszystkie poprawne odpowiedzi — i tylko je. Odpowiedzi są zawsze wymieszane, inaczej dla każdej drużyny, więc kolejność wpisania nie ma znaczenia (możesz śmiało wpisać poprawną odpowiedź jako pierwszą).
-- **Uzupełnij luki** — lukę zapisuje się w zdaniu jako `[[odpowiedź]]`, a inne poprawne odpowiedzi oddziela się znakiem `|`, np. `Stolicą Małopolski jest [[Kraków|Krakow]].` Można też zaznaczyć słowo i użyć przycisku **Zamień zaznaczenie w lukę**. Zdanie może mieć do 20 luk. Po włączeniu **puli słów** drużyna widzi do wyboru odpowiedzi z luk oraz do 10 słów-zmyłek.
+- **Uzupełnij luki** — lukę zapisuje się w zdaniu jako `[[odpowiedź]]`, a inne poprawne odpowiedzi oddziela się znakiem `|`, np. `Stolicą Małopolski jest [[Kraków|Cracow]].` Można też zaznaczyć słowo i użyć przycisku **Zamień zaznaczenie w lukę**. Zdanie może mieć do 20 luk. Po włączeniu **puli słów** drużyna widzi do wyboru odpowiedzi z luk oraz do 10 słów-zmyłek.
 - **Kilka zadań** — każde zadanie ma własne pytanie i może być dowolnego rodzaju (poza kolejnym „Kilka zadań”). Drużyna zdobywa punkt, gdy wszystkie odpowiedzi są poprawne. Limit prób, kara i podpowiedzi dotyczą całego punktu, nie pojedynczych zadań.
 
 ## Treść zadania
@@ -55,7 +55,7 @@ Odpowiedź jest oceniana w całości — jest albo w pełni poprawna, albo błę
 
 Sekcja **Ustawienia zaawansowane** jest domyślnie zwinięta i otwiera się sama, jeśli punkt już korzysta z któregoś ustawienia.
 
-- **Limit prób** (przełącznik **Ogranicz liczbę prób**) — od 1 do 999 prób. Po wyczerpaniu prób drużyna nie może już odpowiadać, dopóki organizator nie odblokuje punktu.
+- **Limit prób** (przełącznik **Ogranicz liczbę prób**) — od 1 do 999 prób. Po wyczerpaniu prób drużyna nie może już odpowiadać. Organizator może odblokować punkt w panelu administratora, jeśli uzna to za stosowne.
 - **Przerwa (sekundy)** — czas, który musi minąć po błędnej odpowiedzi przed kolejną próbą (maksymalnie 24 godziny). 0 = bez przerwy.
 - **Kara (PZ)** — liczba punktów odejmowana od wyniku drużyny za każdą błędną odpowiedź. 0 = bez kary.
 - **Komunikat po błędzie** — własny tekst pokazywany drużynie po pomyłce.
@@ -80,7 +80,7 @@ Po otwarciu punktu drużyna widzi panel zadania z pytaniem, polem odpowiedzi ora
 
 - Po poprawnej odpowiedzi punkt zostaje zebrany jak dotychczas (nagrody, wiadomość po zebraniu itd.).
 - Po błędnej odpowiedzi drużyna widzi komunikat organizatora albo „Błędna odpowiedź” (z wysokością kary, jeśli jest ustawiona).
-- Po wykorzystaniu wszystkich prób drużyna widzi komunikat z prośbą o kontakt z organizatorem.
+- Po wykorzystaniu wszystkich prób drużyna widzi komunikat, że punkt jest zablokowany. Komunikat nie zachęca do kontaktu z organizatorem — o tym, czy limit jest ostateczny, decyduje organizator i może napisać w opisie punktu lub w treści pytania.
 - Po zakończeniu wydarzenia nie można już odpowiadać na zadania.
 - Starsze wersje aplikacji mogą nie obsługiwać nowych rodzajów zadań — wtedy drużyna zobaczy prośbę o aktualizację aplikacji.
 
@@ -103,9 +103,13 @@ Organizator, który może edytować punkt, widzi w szczegółach punktu na mapie
 
 ### Drużyny i próby (panel administratora)
 
-W formularzu punktu z zadaniem panel **Drużyny i próby** pokazuje dla każdej drużyny: liczbę prób (i limit), naliczone kary, wykorzystane podpowiedzi, trwającą przerwę, ostatnie błędne odpowiedzi oraz status (zebrany / zablokowany).
+Lista **Drużyny i próby** pokazuje dla każdej drużyny: liczbę prób (i limit), naliczone kary, wykorzystane podpowiedzi, trwającą przerwę, ostatnie błędne odpowiedzi oraz status (zebrany / zablokowany). Lista wczytuje się na nowo przy każdym otwarciu. Otworzysz ją na trzy sposoby:
 
-Przycisk **Odblokuj** zeruje licznik prób drużyny i kończy przerwę. Naliczone wcześniej kary i koszty podpowiedzi **nie są zwracane**.
+- w tabeli **Punkty** — przycisk z ikoną otwartej kłódki w kolumnie **Akcje** (tylko przy punktach z zadaniem),
+- w widoku **Zadania punktów** — ten sam przycisk w kolumnie **Akcje**,
+- w formularzu edycji punktu (ikona ołówka w kolumnie **Akcje**) — sekcja **Drużyny i próby** pod sekcją **Zadanie**.
+
+Przycisk **Odblokuj** pojawia się przy drużynie, która nie zebrała punktu i jest zablokowana albo czeka na koniec przerwy. Zeruje licznik prób drużyny i kończy przerwę. Naliczone wcześniej kary i koszty podpowiedzi **nie są zwracane**, a odkryte podpowiedzi pozostają widoczne — drużyna nie płaci za nie ponownie. Odblokować punkt mogą twórca i administratorzy wydarzenia; obserwator widzi listę, ale bez przycisku **Odblokuj**.
 
 ### Edycja zbiorcza
 
@@ -113,7 +117,7 @@ W edycji zbiorczej punktów opcja **Ustawienia zadania** ustawia jednocześnie l
 
 ### Statystyki zadań
 
-Widok **Zadania punktów** w menu panelu administratora pokazuje, jak drużyny radzą sobie z zadaniami — najtrudniejsze punkty są na górze. Dla każdego punktu widać m.in.: ile drużyn próbowało, ile odpowiedziało dobrze, liczbę odpowiedzi, odsetek błędnych, sumę kar i podpowiedzi oraz **najczęstsze błędne odpowiedzi** wraz z drużynami, które je podały. To dobre miejsce, żeby w trakcie gry wyłapać pytania za trudne albo niejednoznaczne (np. brakującą pisownię hasła). Widok jest dostępny dla twórcy, administratorów i obserwatorów wydarzenia.
+Widok **Zadania punktów** w menu panelu administratora pokazuje, jak drużyny radzą sobie z zadaniami — najtrudniejsze punkty są na górze. Dla każdego punktu widać m.in.: ile drużyn próbowało, ile odpowiedziało dobrze, liczbę odpowiedzi, odsetek błędnych, sumę kar i podpowiedzi oraz **najczęstsze błędne odpowiedzi** wraz z drużynami, które je podały. To dobre miejsce, żeby w trakcie gry wyłapać pytania za trudne albo niejednoznaczne (np. brakującą pisownię hasła). Widok jest dostępny dla twórcy, administratorów i obserwatorów wydarzenia. Przycisk z ikoną otwartej kłódki w kolumnie **Akcje** otwiera listę [Drużyny i próby](#drużyny-i-próby-panel-administratora) dla danego punktu.
 
 ### Historia wydarzenia
 
