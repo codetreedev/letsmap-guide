@@ -24,8 +24,8 @@ Formularz tworzenia punktów składa się z sześciu głównych sekcji, które p
 ### 3. Zadanie
 
 **Jak drużyna zbiera punkt**:
-- **Skąd drużyna może zebrać punkt**: **Z dowolnego miejsca**, **Tylko w pobliżu punktu** (przez GPS) lub **W pobliżu punktu lub z dowolnego miejsca**. Opcje związane z GPS są dostępne tylko wtedy, gdy ustawienia wydarzenia pozwalają zbierać punkty poprzez GPS
-- **Co musi zrobić drużyna**: Domyślnie jest to **Hasło** — jeśli zostawisz je puste, zostanie wygenerowane automatycznie. Zamiast hasła możesz wybrać inne zadanie: liczbę, kod, wybór odpowiedzi, kolejność, luki w zdaniu lub kilka haseł
+- **Skąd drużyna może zebrać punkt**: **Z dowolnego miejsca** lub **Tylko w pobliżu punktu** (przez GPS). Opcja „Tylko w pobliżu punktu” jest dostępna tylko wtedy, gdy ustawienia wydarzenia pozwalają zbierać punkty poprzez GPS
+- **Co musi zrobić drużyna**: Domyślnie jest to **Hasło** — jeśli zostawisz je puste, zostanie wygenerowane automatycznie. Zamiast hasła możesz wybrać inne zadanie: liczbę, wybór z listy, kolejność, luki w zdaniu lub kilka zadań naraz. Hasło może też być kodem wpisywanym w kratki jak w kłódce. Przy punkcie „Tylko w pobliżu punktu” możesz wybrać **Nic: zbiera dotknięciem w pobliżu punktu** — drużyna musi jedynie dotrzeć na miejsce
 - **Ustawienia zaawansowane**: Limit prób, kara za błędną odpowiedź, przerwa między próbami i płatne podpowiedzi
 
 Szczegóły w opisie funkcji [Zadania punktów](features/point-challenges.md#zadania-punktów).

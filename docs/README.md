@@ -11,9 +11,11 @@ Let's Map to nowoczesne narzędzie do tworzenia i zarządzania grami terenowymi,
 - 🎯 Ścieżki edukacyjne
 - 🏕️ Gry na rajdach i biwakach harcerskich
 
-Aplikacja umożliwia zbieranie punktów na dwa sposoby:
-- **GPS** – automatyczne zaliczenie po dotarciu w określone miejsce
-- **Hasło** – czteroznakowy kod ukryty w terenie, który uczestnicy muszą odnaleźć
+Aplikacja umożliwia zbieranie punktów na kilka sposobów:
+- **GPS** – zaliczenie dotknięciem po dotarciu w określone miejsce
+- **Zadanie** – pytanie z odpowiedzią w formie słowa kodu, liczby, wyborem z listy, kodem w kratkach jak w kłódce, uzupełnianiem luk, układaniem w kolejności lub kilka zadań naraz – z limitem prób, karami i płatnymi podpowiedziami
+
+Zadanie można pokazać z dowolnego miejsca albo dopiero po dotarciu do punktu. [Dowiedz się więcej o zadaniach punktów](features/point-challenges.md#zadania-punktów).
 
 ## Dla kogo?
 
@@ -41,6 +43,7 @@ Aplikacja umożliwia zbieranie punktów na dwa sposoby:
 ### 🚀 Zaawansowane funkcje
 
 - **[Zaawansowane ustawienia wydarzenia](event-management/creating-event.md#_4-zaawansowane-ustawienia-gry)** – dostosuj zasady gry do swoich potrzeb
+- **[Zadania punktów](features/point-challenges.md#zadania-punktów)** – pytania, kody, wybór z listy i inne zadania z podpowiedziami i karami
 - **[Aktualności](features/notifications.md#aktualności-w-wydarzeniu)** – komunikuj się z uczestnikami podczas gry
 - **[Plecak drużyny](features/backpack.md#plecak-drużyny)** – system przedmiotów i zasobów
 - **[Sklep w aplikacji](features/market.md#sklep-w-aplikacji)** – dodaj wymianę punktów na przedmioty
