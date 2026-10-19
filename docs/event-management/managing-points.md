@@ -5,7 +5,7 @@ Punkty rozmieszczane na mapie są najważniejszymi elementami aplikacji, dlatego
 
 ## Przegląd
 
-Formularz tworzenia punktów składa się z pięciu głównych sekcji, które pozwalają na pełną konfigurację punktów w wydarzeniu.
+Formularz tworzenia punktów składa się z sześciu głównych sekcji, które pozwalają na pełną konfigurację punktów w wydarzeniu.
 
 ## Struktura formularza tworzenia punktów
 
@@ -13,7 +13,6 @@ Formularz tworzenia punktów składa się z pięciu głównych sekcji, które po
 
 **Podstawowe dane punktu**:
 - **Nazwa punktu**: Nazwa punktu widoczna dla uczestników
-- **Hasło do zebrania punktu**: Składające się z przynajmniej trzech znaków hasło, które po wpisaniu do aplikacji umożliwi drużynom zebranie punktu
 - **Opis punktu**: Opis punktu widoczny dla użytkowników, można zawrzeć w nim fabularną historię, zagadkę lub podpowiedzi gdzie dokładnie szukać karteczki z punktem
 
 ### 2. Typ punktu
@@ -21,14 +20,22 @@ Formularz tworzenia punktów składa się z pięciu głównych sekcji, które po
 **Konfiguracja zachowania punktu**:
 - **Typ zbieralności punktu**: Punkty mogą być możliwe do zebrania tylko przez jedną drużynę lub dostępne do zebrania przez wszystkie drużyny
 - **Kategoria punktu**: Kategorie punktów tworzone są w osobnym formularzu i przy tworzeniu punktu należy go jedynie przypisać do odpowiedniej kategorii, określa ona wygląd punktu na mapie, jego wartość punktową a także opis kategorii jest dostępny przy każdym punkcie, który do niej należy
-- **Możliwość zbierania punktu poprzez GPS**: Ta opcja działa jedynie jeśli ustawienia wydarzenia pozwalają zbierać punkty poprzez GPS
 
-### 3. Ustawienia mapy
+### 3. Zadanie
+
+**Jak drużyna zbiera punkt**:
+- **Skąd drużyna może zebrać punkt**: **Z dowolnego miejsca** lub **Tylko w pobliżu punktu** (przez GPS). Opcja „Tylko w pobliżu punktu” jest dostępna tylko wtedy, gdy ustawienia wydarzenia pozwalają zbierać punkty poprzez GPS
+- **Co musi zrobić drużyna**: Domyślnie jest to **Hasło** — jeśli zostawisz je puste, zostanie wygenerowane automatycznie. Zamiast hasła możesz wybrać inne zadanie: liczbę, wybór z listy, kolejność, luki w zdaniu lub kilka zadań naraz. Hasło może też być kodem wpisywanym w kratki jak w kłódce. Przy punkcie „Tylko w pobliżu punktu” możesz wybrać **Nic: zbiera dotknięciem w pobliżu punktu** — drużyna musi jedynie dotrzeć na miejsce
+- **Ustawienia zaawansowane**: Limit prób, kara za błędną odpowiedź, przerwa między próbami i płatne podpowiedzi
+
+Szczegóły w opisie funkcji [Zadania punktów](features/point-challenges.md#zadania-punktów).
+
+### 4. Ustawienia mapy
 
 **Lokalizacja punktu**:
 - Określenie miejsca, w którym znajduje się dany punkt na mapie
 
-### 4. Typ widoczności punktu
+### 5. Typ widoczności punktu
 
 **Kontrola dostępności punktu**:
 - **Typ widoczności punktu**: Jest to nadrzędna cecha, która kontroluje dalsze opcje ustawienia
@@ -37,7 +44,7 @@ Formularz tworzenia punktów składa się z pięciu głównych sekcji, które po
   - **Punkt ukryty**: Punkt widoczny jest tylko dla drużyn, które spełniają odpowiednie kryteria np. posiadają odpowiedni przedmiot (mapę)
   - **Punkt ukryty czasowy**: Połączenie punktów czasowych i ukrytych, punkt jest widoczny w przedziale czasowym tylko dla drużyn, które posiadają odpowiedni przedmiot
 
-### 5. Akcje po zebraniu punktu
+### 6. Akcje po zebraniu punktu
 
 **Nagrody i komunikaty**:
 - **Wiadomość po zebraniu punktu**: Komunikat wyświetlany drużynie po zebraniu punktu

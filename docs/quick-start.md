@@ -23,10 +23,9 @@ Możesz zainstalować aplikację Let's Map z [Google Play](https://play.google.c
    - Kategoria punktu
    - Pozycja punktu na mapie
 3. Wypełnij opcjonalne pola:
-   - Hasło do zebrania punktu
    - Opis punktu
+   - Zadanie: skąd drużyna może zebrać punkt (z dowolnego miejsca lub tylko w pobliżu) i co musi zrobić – domyślnie wpisać hasło, które wygeneruje się samo, jeśli zostawisz je puste ([więcej o zadaniach](features/point-challenges.md#zadania-punktów))
    - Wiadomość po zebraniu punktu
-   - Czy zbieralny po GPS
    - Czas widoczności punktu
 4. Kliknij przycisk "Zapisz" i zobaczysz nowy punkt na mapie.
 

@@ -109,14 +109,18 @@ Opcjonalna konfiguracja zasad gry dla zaawansowanych organizatorów:
 #### Funkcje wydarzenia
 
 **Zbieranie punktów przez geolokalizację**
-- Domyślnie: Punkty można zbierać przez GPS — domyślna opcja przy tworzeniu punktu
-- Opcjonalnie: Punkty można zbierać przez GPS, jednak domyślna opcja tworzenia to hasło
-- Zabronione: Zbieranie punktów przez GPS jest wyłączone
+- Domyślnie: Punkty można zbierać przez GPS — nowy punkt domyślnie jest zbierany „Tylko w pobliżu punktu”
+- Opcjonalnie: Punkty można zbierać przez GPS, jednak nowy punkt domyślnie jest zbierany „Z dowolnego miejsca” hasłem
+- Zabronione: Zbieranie punktów przez GPS jest wyłączone — wszystkie punkty są zbierane przez [zadania](features/point-challenges.md#zadania-punktów) z dowolnego miejsca
 
 **Dokładność do zebrania geolokalizacją**
-- Otwarta przestrzeń: Wymagana dokładność do 10 m
-- Teren miejski / leśny: Wymagana dokładność do 20 m
-- Teren z przewyższeniami: Wymagana dokładność do 30 m
+- Otwarta przestrzeń: Wymagana dokładność do 15 m
+- Teren miejski / leśny: Wymagana dokładność do 25 m
+- Teren z przewyższeniami: Wymagana dokładność do 40 m
+
+**Kto zbiera punkty**
+- Tylko lider drużyny: Tylko lider zbiera punkty, odpowiada na zadania i odkrywa podpowiedzi w imieniu drużyny
+- Wszyscy członkowie drużyny: Każdy członek drużyny może zebrać punkt; punkt zebrany przez jedną osobę liczy się całej drużynie
 
 **Dostępność plecaka**
 - Dostępny: Uczestnicy mogą korzystać z plecaka i przedmiotów
