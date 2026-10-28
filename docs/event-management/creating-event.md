@@ -68,8 +68,12 @@ Opcjonalna konfiguracja zasad gry dla zaawansowanych organizatorów:
 #### Ustawienia mapy użytkownika
 
 **Ustawienia geolokalizacji**
+- Wymagana: Uczestnik nie może wejść do gry, dopóki nie zezwoli aplikacji na dostęp do lokalizacji
 - Dostępna: Uczestnicy mogą używać GPS i widzą swoją pozycję na mapie
 - Zabroniona: Geolokalizacja wyłączona dla uczestników
+
+**Widoczność szczegółów punktu**
+- Włączona: Po dotknięciu punktu na mapie uczestnik może otworzyć jego szczegóły
 
 **Wygląd zebranych punktów dla drużyny**
 - Częściowo przeźroczysty: Zebrane punkty są pokazane na mapie jako przyciemnione
@@ -114,12 +118,12 @@ Opcjonalna konfiguracja zasad gry dla zaawansowanych organizatorów:
 - Zabronione: Zbieranie punktów przez GPS jest wyłączone — wszystkie punkty są zbierane przez [zadania](features/point-challenges.md#zadania-punktów) z dowolnego miejsca
 
 **Dokładność do zebrania geolokalizacją**
-- Otwarta przestrzeń: Wymagana dokładność do 15 m
-- Teren miejski / leśny: Wymagana dokładność do 25 m
-- Teren z przewyższeniami: Wymagana dokładność do 40 m
+- 15 m: Otwarta przestrzeń
+- 25 m: Teren miejski / leśny (domyślnie)
+- 40 m: Teren z przewyższeniami
 
 **Kto zbiera punkty**
-- Tylko lider drużyny: Tylko lider zbiera punkty, odpowiada na zadania i odkrywa podpowiedzi w imieniu drużyny
+- Tylko lider drużyny: Tylko lider zbiera punkty, odpowiada na zadania i odkrywa podpowiedzi w imieniu drużyny (domyślnie)
 - Wszyscy członkowie drużyny: Każdy członek drużyny może zebrać punkt; punkt zebrany przez jedną osobę liczy się całej drużynie
 
 **Dostępność plecaka**
@@ -137,6 +141,17 @@ Opcjonalna konfiguracja zasad gry dla zaawansowanych organizatorów:
 **Dostępność tabeli wyników**
 - Dostępna: Uczestnicy i organizatorzy widzą ranking
 - Wyłączona: Tablica wyników jest ukryta dla wszystkich
+
+**Wirtualny ruch**
+- Organizatorzy: Organizatorzy mogą zastąpić swoją pozycję GPS ruchem po mapie padem ze strzałkami – przydatne przy testowaniu wydarzenia w [widoku gracza](features/player-view.md#widok-gracza) (domyślnie)
+- Wszyscy: Każdy uczestnik może poruszać się po mapie wirtualnie, co pozwala rozegrać wydarzenie online, bez wychodzenia z domu
+- Nikt: Wirtualny ruch jest wyłączony
+
+#### Sklep i oferty
+
+**Kto handluje w sklepie**
+- Tylko lider drużyny: Tylko lider kupuje i wystawia oferty w imieniu drużyny (domyślnie)
+- Wszyscy członkowie drużyny: Każdy członek drużyny może kupować i wystawiać oferty w imieniu drużyny
 
 #### Funkcje organizatora
 

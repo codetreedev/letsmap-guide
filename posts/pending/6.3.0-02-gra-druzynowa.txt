@@ -1,0 +1,22 @@
+Więcej osób w drużynie może działać
+
+Wspólna gra daje więcej możliwości, kiedy członkowie drużyny mogą podzielić się zadaniami. Dlatego stopniowo udostępniamy im kolejne działania, które wcześniej wykonywał lider.
+
+🤝 Oferty dla całej drużyny
+Już w poprzedniej wersji dodaliśmy ustawienie, dzięki któremu organizator może pozwolić każdemu członkowi drużyny akceptować oferty.
+
+📍 Teraz także zbieranie punktów
+W wersji 6.3.0 rozszerzyliśmy tę możliwość na punkty. Organizator może zdecydować, że zbiera je każdy członek drużyny. Dzięki temu więcej osób może aktywnie działać i mieć swój udział w wyniku zespołu.
+
+💬 Warto się komunikować
+Obecnie aplikacja pobiera aktualne dane co minutę, więc pozostali gracze mogą zobaczyć wykonane działanie z opóźnieniem. Warto mówić sobie, kto zbiera dany punkt albo akceptuje ofertę, żeby uniknąć dublowania działań.
+
+⚡ Niedługo tryb live
+Pracujemy już nad trybem gry live, w którym drużyny będą widzieć zmiany w ciągu kilku sekund. Ułatwi to koordynację podczas wspólnej rozgrywki.
+
+Przy kolejnej grze spróbuj udostępnić zbieranie punktów całej drużynie i zachęcić uczestników do podziału zadań. Chętnie usłyszymy, jak sprawdziło się to w Waszych scenariuszach.
+
+Pełny opis zmian w wersji 6.3.0 znajdziesz w poradniku:
+https://guide.letsmap.pl/#/versions/6.3.0
+
+#LetsMap #GryTerenowe #GraDruzynowa #Wspolpraca #Aktualizacja

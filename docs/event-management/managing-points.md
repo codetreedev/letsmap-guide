@@ -52,6 +52,17 @@ Szczegóły w opisie funkcji [Zadania punktów](features/point-challenges.md#zad
 
 ## Zaawansowane ustawienia punktu
 
+### Ustawienia zaawansowane zadania
+W zaawansowanych ustawieniach zadania możesz dodatkowo określić:
+- **Limit prób**: Po wykorzystaniu wszystkich prób drużyna nie może już odpowiadać, dopóki organizator nie odblokuje punktu
+- **Przerwa**: Czas w sekundach, jaki drużyna musi odczekać po błędnej odpowiedzi
+- **Kara**: Liczba punktów zwycięstwa odejmowana drużynie za każdą błędną odpowiedź
+- **Komunikat po błędzie**: Własna wiadomość wyświetlana po błędnej odpowiedzi
+- **Podpowiedzi**: Drużyna odkrywa je po kolei. Każda podpowiedź może mieć koszt w punktach zwycięstwa odejmowany od wyniku drużyny – przed odkryciem drużyna widzi, ile zapłaci
+- **Porównywanie odpowiedzi**: Możesz pominąć polskie znaki (ą = a, ł = l), aby odpowiedź bez nich też była uznana
+
+W przypadku zadania „Kilka zadań” limit prób, kara i podpowiedzi dotyczą całego punktu.
+
 ### Ustalanie przedziałów czasowych
 Ustalanie przedziałów czasowych punktów polega na podaniu godziny pojawienia i zniknięcia punktu. Można to zrobić na dwa sposoby:
 

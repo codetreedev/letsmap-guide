@@ -1,0 +1,35 @@
+Łatwiej poznać Let's Map — twórcom i graczom
+
+W wersji 6.3.0 ułatwiliśmy twórcom i graczom poznawanie aplikacji, a twórcom także sprawdzanie swoich pomysłów w praktyce.
+
+📱 W aplikacji Let's Map
+
+📖 Nowy poradnik
+Opisy funkcji i ustawień z podziałem na tematy, dla twórców i graczy. Możesz poznawać aplikację po kolei albo sprawdzić konkretne zagadnienie podczas przygotowywania gry lub rozgrywki.
+
+💬 Interaktywne podpowiedzi
+Prowadzą przez kolejne kroki i pokazują funkcje bezpośrednio na ekranie aplikacji. Łatwiej połączyć opis z tym, co właśnie ustawiasz.
+
+🗺️ Wirtualne poruszanie i widok gracza
+Możesz przejść swoją grę próbną drużyną: poruszać się po mapie strzałkami, zbierać punkty i rozwiązywać zadania. Bez wychodzenia w teren, drugiego konta i dodatkowego telefonu.
+
+W menu wydarzenia wybierz Widok gracza → Testuj wirtualnie, a jako pozycję drużyny ustaw Wirtualny ruch.
+
+🎓 Samouczki do poznawania aplikacji
+Krok po kroku uczą obsługi aplikacji i pozwalają sprawdzić jej funkcje w praktyce. Twórcom pomagają też zrozumieć, jak wykorzystać te możliwości we własnych wydarzeniach.
+
+Znajdziesz je w aplikacji: na liście wydarzeń wybierz Utwórz wydarzenie, a następnie samouczek w sekcji Poradniki. Wskaż miejsce na mapie, a aplikacja przygotuje wydarzenie do nauki. Otwórz pierwszy punkt i wykonuj kolejne wskazówki. Samouczek możesz też przejść wirtualnie, korzystając z widoku gracza.
+
+💻 W panelu organizatora — admin.letsmap.pl
+
+🔎 Rozbudowany podgląd wydarzenia
+Na komputerze zaloguj się do panelu tym samym kontem co w aplikacji. W wybranym wydarzeniu otwórz Podgląd wydarzenia — zobaczysz tam mapę i większość akcji wykonywanych w grze. Bezpośrednio z tego widoku możesz też dodawać i edytować punkty, korzystając z formularza obok mapy.
+
+Tworzysz grę? Zmień ustawienie punktu w panelu na komputerze i sprawdź efekt w aplikacji, w widoku gracza.
+
+Jeśli coś nadal jest niejasne, daj nam znać — pomoże nam to rozwijać poradnik i podpowiedzi.
+
+Pełny opis zmian w wersji 6.3.0 znajdziesz w poradniku:
+https://guide.letsmap.pl/#/versions/6.3.0
+
+#LetsMap #GryTerenowe #TworzenieGier #Poradnik #Aktualizacja
