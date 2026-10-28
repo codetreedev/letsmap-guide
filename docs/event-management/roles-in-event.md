@@ -48,9 +48,9 @@ W wydarzeniach Let's Map istnieje pięć głównych ról o różnych poziomach u
 ### 5. Członek drużyny
 - **Uczestnictwo w wydarzeniu** w ramach konkretnej drużyny
 - **Możliwości**:
-  - Zbieranie punktów dla swojej drużyny
+  - Zbieranie punktów dla swojej drużyny — tylko gdy ustawienie wydarzenia **Kto zbiera punkty** ma wartość „Wszyscy członkowie drużyny”; przy wartości „Tylko lider drużyny” członek widzi zadania punktów w trybie podglądu (bez pytania jeśli to punkt do którego wymagane jest podejście)
   - Korzystanie z plecaka drużyny
-  - Dokonywanie zakupów w sklepie (jeśli dostępny)
+  - Dokonywanie zakupów w sklepie (jeśli dostępny i organizator ustawi, że handlują wszyscy członkowie drużyny)
   - Przeglądanie mapy i zadań
 - **Ograniczenia**: Nie może zarządzać drużyną ani zapraszać nowych członków
 
