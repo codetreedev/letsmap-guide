@@ -21,24 +21,14 @@ Formularz tworzenia punktów składa się z sześciu głównych sekcji, które p
 - **Typ zbieralności punktu**: Punkty mogą być możliwe do zebrania tylko przez jedną drużynę lub dostępne do zebrania przez wszystkie drużyny
 - **Kategoria punktu**: Kategorie punktów tworzone są w osobnym formularzu i przy tworzeniu punktu należy go jedynie przypisać do odpowiedniej kategorii, określa ona wygląd punktu na mapie, jego wartość punktową a także opis kategorii jest dostępny przy każdym punkcie, który do niej należy
 
-### 3. Sposób zebrania punktu
+### 3. Zadanie
 
-**Skąd drużyna może zebrać punkt**:
-- **Tylko w pobliżu punktu**: Drużyna musi dotrzeć na miejsce. Jeśli nie ustawisz zadania, punkt zbiera się po prostu dotknięciem przycisku w zasięgu GPS
-- **Z dowolnego miejsca**: Drużyna może zebrać punkt bez względu na swoją pozycję, ale wymaga to ustawienia zadania
+**Jak drużyna zbiera punkt**:
+- **Skąd drużyna może zebrać punkt**: **Z dowolnego miejsca** lub **Tylko w pobliżu punktu** (przez GPS). Opcja „Tylko w pobliżu punktu” jest dostępna tylko wtedy, gdy ustawienia wydarzenia pozwalają zbierać punkty poprzez GPS
+- **Co musi zrobić drużyna**: Domyślnie jest to **Hasło** — jeśli zostawisz je puste, zostanie wygenerowane automatycznie. Zamiast hasła możesz wybrać inne zadanie: liczbę, wybór z listy, kolejność, luki w zdaniu lub kilka zadań naraz. Hasło może też być kodem wpisywanym w kratki jak w kłódce. Przy punkcie „Tylko w pobliżu punktu” możesz wybrać **Nic: zbiera dotknięciem w pobliżu punktu** — drużyna musi jedynie dotrzeć na miejsce
+- **Ustawienia zaawansowane**: Limit prób, kara za błędną odpowiedź, przerwa między próbami i płatne podpowiedzi
 
-**Co musi zrobić drużyna** (zadanie):
-- **Nic**: Punkt zbiera się dotknięciem w pobliżu punktu
-- **Hasło**: Drużyna wpisuje słowo, frazę albo kod. Możesz ograniczyć dozwolone znaki (litery, cyfry) lub pokazać kratki jak w kłódce. Jeśli zostawisz hasło puste, aplikacja wygeneruje je za Ciebie
-- **Liczba**: Drużyna podaje liczbę. Możesz przyjąć dokładną wartość, wartość z tolerancją (±) albo przedział
-- **Wybór z listy**: Drużyna wybiera jedną lub kilka poprawnych odpowiedzi z listy
-- **Uzupełnij luki**: Drużyna uzupełnia brakujące słowa w zdaniu, wpisując je lub wybierając z puli słów. Lukę zapisujesz jako `[[odpowiedź]]`, a inne poprawne pisownie rozdzielasz znakiem `|`, np. `[[Kraków|Krakow]]`. Do puli możesz dodać słowa-zmyłki
-- **Kolejność**: Drużyna układa elementy we właściwej kolejności – każda drużyna widzi je wymieszane
-- **Kilka zadań**: Połączenie do 5 zadań różnych rodzajów. Drużyna zdobywa punkt, gdy wszystkie odpowiedzi są poprawne
-
-**Pytanie**: Do zadania możesz dodać treść pytania z takim samym formatowaniem i multimediami jak opis punktu. Przy punkcie zbieranym tylko w pobliżu pytanie pojawia się dopiero wtedy, gdy drużyna podejdzie do punktu.
-
-**Podgląd**: Pod formularzem zadania widzisz, jak zobaczy je drużyna.
+Szczegóły w opisie funkcji [Zadania punktów](features/point-challenges.md#zadania-punktów).
 
 ### 4. Ustawienia mapy
 
