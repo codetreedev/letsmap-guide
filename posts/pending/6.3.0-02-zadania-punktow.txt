@@ -1,0 +1,30 @@
+Punkt to teraz zadanie, nie tylko hasło
+
+Do tej pory punkt zbierało się hasłem albo przez GPS. W obecnej wersji każdy punkt może mieć zadanie, które drużyna musi rozwiązać, żeby go zdobyć.
+
+📍 Skąd drużyna zbiera punkt?
+Przy każdym punkcie wybierasz: z dowolnego miejsca albo tylko w pobliżu punktu. W drugim przypadku pytanie jest ukryte, dopóki drużyna nie podejdzie do punktu — albo punkt zbiera się po prostu dotknięciem, jak dotychczas przez GPS.
+
+Sześć rodzajów zadań:
+🔤 Hasło — słowo, fraza lub kod wpisywany w kratki jak w kłódce szyfrowej
+🔢 Liczba — dokładna wartość, z tolerancją albo przedział liczbowy
+☑️ Wybór z listy — jedna lub kilka poprawnych odpowiedzi
+✏️ Uzupełnij luki — brakujące słowa w zdaniu, wpisywane albo wybierane z puli słów
+↕️ Kolejność — ułożenie elementów we właściwym porządku
+🎯 Kilka zadań — do 5 zadań różnych rodzajów w jednym punkcie
+
+💡 Podpowiedzi i kary
+Do zadania możesz dodać podpowiedzi — darmowe albo kosztujące drużynę punkty zwycięstwa. Możesz też ustawić karę za błędną odpowiedź, ograniczyć liczbę prób i dodać przerwę po pomyłce. Wszystko to widać osobno w tabeli wyników.
+
+📊 Kontrola w trakcie gry
+W panelu organizatora — admin.letsmap.pl — w widoku Zadania punktów zobaczysz, które pytania sprawiają drużynom najwięcej trudności i jakie błędne odpowiedzi padają najczęściej. Łatwo wyłapiesz brakującą pisownię hasła albo niejednoznaczne pytanie. Jeśli drużyna wykorzysta wszystkie próby dla zadania, możesz odblokować jej ten punkt.
+
+🔄 Twoje dotychczasowe gry działają dalej
+Istniejące punkty zostały przeniesione automatycznie: punkty z hasłem dostały zadanie typu Hasło, a punkty zbierane przez GPS — zbieranie dotknięciem w pobliżu punktu.
+
+Przygotowujesz kolejną grę? Zamień część haseł na quiz, zagadkę z lukami albo kod do kłódki i sprawdź efekt w widoku gracza.
+
+Pełny opis zadań punktów znajdziesz w poradniku w aplikacji lub na stronie:
+https://guide.letsmap.pl/#/features/point-challenges
+
+#LetsMap #GryTerenowe #TworzenieGier #Zagadki #Aktualizacja

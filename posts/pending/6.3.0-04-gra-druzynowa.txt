@@ -1,12 +1,12 @@
 Więcej osób w drużynie może działać
 
-Wspólna gra daje więcej możliwości, kiedy członkowie drużyny mogą podzielić się zadaniami. Dlatego stopniowo udostępniamy im kolejne działania, które wcześniej wykonywał lider.
+Wspólna gra daje więcej możliwości, kiedy członkowie drużyny mogą podzielić się zadaniami. Dlatego stopniowo udostępniamy im kolejne działania, które wcześniej wykonywał tylko lider.
 
 🤝 Oferty dla całej drużyny
-Już w poprzedniej wersji dodaliśmy ustawienie, dzięki któremu organizator może pozwolić każdemu członkowi drużyny akceptować oferty.
+Już w poprzedniej wersji dodaliśmy ustawienie, dzięki któremu organizator może pozwolić każdemu członkowi drużyny akceptować oferty ze sklepu.
 
 📍 Teraz także zbieranie punktów
-W wersji 6.3.0 rozszerzyliśmy tę możliwość na punkty. Organizator może zdecydować, że zbiera je każdy członek drużyny. Dzięki temu więcej osób może aktywnie działać i mieć swój udział w wyniku zespołu.
+W wersji 6.3.0 rozszerzyliśmy tę możliwość na punkty. Organizator może zdecydować, czy może zebrać je każdy członek drużyny czy tylko lider. Dzięki temu więcej osób może aktywnie działać i mieć swój udział w wyniku zespołu.
 
 💬 Warto się komunikować
 Obecnie aplikacja pobiera aktualne dane co minutę, więc pozostali gracze mogą zobaczyć wykonane działanie z opóźnieniem. Warto mówić sobie, kto zbiera dany punkt albo akceptuje ofertę, żeby uniknąć dublowania działań.

@@ -1,0 +1,23 @@
+Łatwiej poznać Let's Map — twórcom i graczom
+
+🚀 Nowa wersja Let's Map 6.3.0 jest już dostępna! To jedna z największych aktualizacji aplikacji, dlatego zaczynamy serię wpisów, w których po kolei przedstawimy najważniejsze nowości. Obserwuj naszą stronę, żeby nie przegapić kolejnych części.
+
+Na początek: w tej wersji ułatwiliśmy twórcom i graczom poznawanie aplikacji — od pierwszego uruchomienia po przygotowanie własnej gry.
+
+📖 Nowy poradnik
+Opisy funkcji i ustawień z podziałem na tematy, dla twórców i graczy bezpośrednio w aplikacji. Możesz poznawać aplikację po kolei albo sprawdzić konkretne zagadnienie podczas przygotowywania gry lub rozgrywki.
+
+💬 Interaktywne podpowiedzi
+Prowadzą przez kolejne kroki i pokazują funkcje bezpośrednio, zaznaczając je na ekranie aplikacji. Łatwiej połączyć opis z tym, co właśnie ustawiasz.
+
+🎓 Samouczki do poznawania aplikacji
+Krok po kroku uczą obsługi aplikacji i pozwalają sprawdzić jej funkcje w praktyce. Twórcom pomagają też zrozumieć, jak wykorzystać te możliwości we własnych wydarzeniach.
+
+Znajdziesz je w aplikacji: na liście wydarzeń wybierz Utwórz wydarzenie, a następnie samouczek w sekcji Poradniki. Wskaż miejsce na mapie, a aplikacja przygotuje wydarzenie do nauki. Otwórz pierwszy punkt i wykonuj kolejne wskazówki.
+
+Jeśli coś nadal jest niejasne, daj nam znać — pomoże nam to rozwijać poradnik i podpowiedzi.
+
+Pełny opis zmian w wersji 6.3.0 znajdziesz w poradniku:
+https://guide.letsmap.pl/#/versions/6.3.0
+
+#LetsMap #GryTerenowe #Poradnik #Samouczek #Aktualizacja

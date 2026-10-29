@@ -1,0 +1,16 @@
+Sprawdź swoją grę, zanim wyjdziesz w teren
+
+W nowej wersji ułatwiliśmy twórcom sprawdzanie swoich pomysłów w praktyce — bez wychodzenia z domu i bez drugiego telefonu.
+
+🗺️ Wirtualne poruszanie i widok gracza
+Możesz przejść swoją grę za pomocą wirtualnej drużyny: poruszać się po mapie strzałkami, zbierać punkty i rozwiązywać zadania. Bez wychodzenia w teren, drugiego konta i dodatkowego telefonu. W menu wydarzenia wybierz: Widok gracza → Testuj wirtualnie, a jako pozycję drużyny ustaw Wirtualny ruch.
+
+💻 Rozbudowany podgląd wydarzenia w panelu organizatora — admin.letsmap.pl
+Na komputerze zaloguj się do panelu tym samym kontem co w aplikacji. W wybranym wydarzeniu otwórz Podgląd wydarzenia — zobaczysz tam mapę i większość akcji wykonywanych w grze. Bezpośrednio z tego widoku możesz też dodawać i edytować punkty, korzystając z formularza obok mapy.
+
+Tworzysz grę? Zmień ustawienie punktu w panelu na komputerze i sprawdź efekt w aplikacji, w widoku wirtualnej drużyny.
+
+Pełny opis zmian w wersji 6.3.0 znajdziesz w poradniku:
+https://guide.letsmap.pl/#/versions/6.3.0
+
+#LetsMap #GryTerenowe #TworzenieGier #WidokGracza #Aktualizacja
