@@ -27,6 +27,11 @@
 [//]: # (* [Zarządzanie kontem]&#40;&#41;)
 
 * Funkcjonalności
+  * [Gry publiczne](features/public-events-authors.md#gry-publiczne-dla-autorów)
+    * [Przygotuj wydarzenie](features/public-events-authors.md#przygotuj-wydarzenie)
+    * [Zgłoś wydarzenie](features/public-events-authors.md#zgłoś-wydarzenie)
+    * [Statystyki Twojej gry](features/public-events-authors.md#statystyki-twojej-gry)
+    * [Aktualizacja gry](features/public-events-authors.md#aktualizacja-opublikowanej-gry)
   * [Aktualności w wydarzeniu](features/notifications.md#aktualności-w-wydarzeniu)
     * [Przykładowy wygląd](features/notifications.md#przykładowy-wygląd-aktualności)
     * [Jak wysłać aktualność?](features/notifications.md#jak-wysłać-aktualności)

@@ -43,6 +43,7 @@ Zadanie można pokazać z dowolnego miejsca albo dopiero po dotarciu do punktu. 
 
 ### 🚀 Zaawansowane funkcje
 
+- **[Gry publiczne](features/public-events-authors.md#gry-publiczne-dla-autorów)** – zgłoś swoje wydarzenie do katalogu wydarzeń publicznych i śledź jego statystyki
 - **[Zaawansowane ustawienia wydarzenia](event-management/creating-event.md#_4-zaawansowane-ustawienia-gry)** – dostosuj zasady gry do swoich potrzeb
 - **[Aktualności](features/notifications.md#aktualności-w-wydarzeniu)** – komunikuj się z uczestnikami podczas gry
 - **[Plecak drużyny](features/backpack.md#plecak-drużyny)** – system przedmiotów i zasobów
