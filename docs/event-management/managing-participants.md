@@ -9,7 +9,7 @@ Zarządzanie uczestnikami w Let's Map obejmuje kompleksowy system ról, uprawnie
 #### Dla liderów zespołów:
 - **Edycja nazwy zespołu** - zmiana nazwy w dowolnym momencie (do zakończenia wydarzenia)
 - **Zarządzanie kolorami** - wybór koloru identyfikacyjnego zespołu
-- **Zapraszanie członków** - generowanie i udostępnianie kluczy zaproszenia
+- **Zapraszanie członków** - generowanie i udostępnianie kodów zaproszenia (także jako kody QR)
 
 #### Zarządzanie członkami zespołu:
 - **Przeglądanie listy członków** - widok wszystkich uczestników zespołu

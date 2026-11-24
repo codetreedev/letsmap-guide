@@ -1,17 +1,17 @@
 # Gry publiczne dla autorów
 
-Gra publiczna to gotowa gra, którą każdy zalogowany użytkownik znajdzie w aplikacji, w katalogu **Gry publiczne**, i do której dołączy sam, bez klucza zaproszenia. Nikt nie prowadzi jej na żywo: autor przygotowuje ją wcześniej, a każda drużyna gra we własnym tempie, kiedy chce. Gra może być dostępna miesiącami, a kolejne drużyny dołączają w dowolnym momencie.
+Gra publiczna to gotowa gra, którą każdy zalogowany użytkownik znajdzie w aplikacji, w katalogu **Gry publiczne**, i do której dołączy sam, bez kodu zaproszenia. Nikt nie prowadzi jej na żywo: autor przygotowuje ją wcześniej, a każda drużyna gra we własnym tempie, kiedy chce. Gra może być dostępna miesiącami, a kolejne drużyny dołączają w dowolnym momencie.
 
-Ta strona jest dla autorów, czyli osób, które chcą pokazać swoje wydarzenie innym.
+Ta strona jest dla autorów, czyli osób, które chcą pokazać swoje wydarzenie innym. Jak grać w gry publiczne, opisuje strona [Gry publiczne](features/public-events.md#gry-publiczne).
 
 ## Czym gra publiczna różni się od zwykłego wydarzenia?
 
 | | Zwykłe wydarzenie | Gra publiczna |
 |---|---|---|
-| **Dołączanie** | Kluczem zaproszenia od organizatora | Z katalogu **Gry publiczne**, bez klucza. Każdy dołączający zakłada własną drużynę i zostaje jej liderem |
+| **Dołączanie** | Kodem zaproszenia od organizatora (także kodem QR) | Z katalogu **Gry publiczne**, bez kodu. Każdy dołączający zakłada własną drużynę i zostaje jej liderem |
 | **Czas gry** | Wspólny dla wszystkich: od początku do końca wydarzenia | Własny dla każdej drużyny: liczy się od chwili dołączenia i nie ma limitu |
 | **Inne drużyny** | Widoczne zgodnie z ustawieniami wydarzenia | Niewidoczne. Każda drużyna widzi tylko siebie |
-| **Tablica wyników** | Zgodnie z ustawieniami wydarzenia | Brak. Drużyny grają w różnym czasie, więc nie ma ich jak porównać |
+| **Tabela wyników** | Zgodnie z ustawieniami wydarzenia | Brak. Drużyny grają w różnym czasie, więc nie ma ich jak porównać |
 | **Organizator** | Prowadzi grę na żywo | Nikt nie prowadzi gry. Wszystko jest w opisie gry i w opisach punktów |
 | **Zmiany w grze** | Organizator edytuje wydarzenie | Autor wysyła aktualizację, którą sprawdza zespół Let's Map |
 | **Gra od nowa** | Po zresetowaniu wydarzenia przez organizatora | Gracz sam zaczyna nowe podejście, z nową drużyną i pustymi postępami |
@@ -27,7 +27,7 @@ Grą publiczną może zostać każde Twoje wydarzenie:
 3. Po zatwierdzeniu do katalogu trafia **kopia** wydarzenia. Twoje wydarzenie zostaje u Ciebie jako wersja robocza: możesz je dalej zmieniać, a zmiany przenosić do gry aktualizacją.
 4. W opublikowanej grze masz rolę obserwatora i śledzisz jej statystyki.
 
-Zgłoszenia wysyłasz w [panelu organizatora](admin-panel.md#panel-organizatora). W aplikacji, w edycji wydarzenia, znajdziesz sekcję **Gra publiczna** z przyciskiem, który go otwiera.
+Zgłoszenia wysyłasz w [panelu organizatora](admin-panel.md#panel-organizatora).
 
 ## Przygotuj wydarzenie
 
@@ -38,6 +38,7 @@ Gra publiczna nie przyjmie elementów, które działają tylko przy wspólnym cz
 | Okno czasowe punktu lub oferty ustawione na **konkretną datę** | Drużyny grają w odstępie miesięcy | Usuń okno czasowe |
 | Okno czasowe liczone **od początku lub końca wydarzenia** | Drużyny zaczynają w różnym czasie | Usuń okno czasowe |
 | **Punkt jednorazowy** | Zebrałaby go tylko pierwsza drużyna | Zmień rodzaj punktu |
+| **Nagroda jednorazowa** punktu | Dostałaby ją tylko pierwsza drużyna, która zbierze punkt | Ustaw nagrodę dla każdej drużyny |
 | Oferta z **pulą wspólną dla wszystkich drużyn** | Wyczerpałaby ją pierwsza drużyna | Usuń limit puli w ofercie |
 
 Formularz zgłoszenia sam pokaże listę elementów do poprawienia, więc nie musisz szukać ich ręcznie.
@@ -45,7 +46,7 @@ Formularz zgłoszenia sam pokaże listę elementów do poprawienia, więc nie mu
 Warto też pamiętać, że:
 
 - **nikt nie prowadzi gry na żywo.** Opisy punktów i [zadania](features/point-challenges.md#zadania-punktów) muszą wystarczyć graczom. Limit prób bez możliwości odblokowania punktu może zatrzymać drużynę na dobre,
-- **tablica wyników i śledzenie drużyn są zawsze wyłączone**, niezależnie od ustawień Twojego wydarzenia,
+- **tabela wyników i śledzenie drużyn są zawsze wyłączone**, niezależnie od ustawień Twojego wydarzenia,
 - pozostałe ustawienia, w tym drużyny wieloosobowe i eksploracja mapy, gra przejmuje z Twojego wydarzenia,
 - do gry trafiają kategorie, punkty, przedmioty, oferty i [aktualności](features/notifications.md#aktualności-w-wydarzeniu). Drużyny, uczestnicy i organizatorzy nie są kopiowani.
 
@@ -54,7 +55,7 @@ Warto też pamiętać, że:
 ## Zgłoś wydarzenie
 
 1. W panelu organizatora otwórz **Wydarzenia**.
-2. W menu wiersza swojego wydarzenia wybierz **Zgłoś jako grę publiczną**. Opcję widzi tylko twórca wydarzenia.
+2. W wierszu swojego wydarzenia otwórz menu **Więcej akcji** i wybierz **Zgłoś jako grę publiczną**. Opcję widzi tylko twórca wydarzenia.
 3. Wypełnij formularz:
 
    | Pole | Co wpisać |
@@ -111,7 +112,7 @@ Nad tabelą widzisz podsumowanie, w tym **medianę czasu gry** i liczbę podejś
 Opublikowanej gry nie edytujesz bezpośrednio. Zmieniasz swoje wydarzenie, a potem wysyłasz aktualizację:
 
 1. Wprowadź zmiany w swoim wydarzeniu.
-2. W panelu organizatora, w menu wiersza wydarzenia, otwórz to samo okno co przy zgłoszeniu i wybierz **Wyślij aktualizację**.
+2. W panelu organizatora, w menu **Więcej akcji** w wierszu wydarzenia, otwórz to samo okno co przy zgłoszeniu i wybierz **Wyślij aktualizację**.
 3. W razie potrzeby popraw okno katalogu i opis gry, a potem wybierz **Wyślij aktualizację do sprawdzenia**.
 
 Aktualizację sprawdza zespół Let's Map, tak jak pierwsze zgłoszenie. Po zatwierdzeniu działa od razu, także dla drużyn, które właśnie grają.
@@ -153,4 +154,4 @@ Gra jest osobną kopią. Zmiany trafią do niej dopiero po zatwierdzeniu aktuali
 Nie. Opublikowane wydarzenie ma jedną grę, a kolejne zmiany wysyłasz jako aktualizacje.
 
 **Czy mogę zaprosić do gry innych organizatorów?**
-Nie. W grze publicznej nie ma organizatorów. Kluczem można zaprosić tylko obserwatora albo członka drużyny.
+Nie. W grze publicznej nie ma organizatorów. Kodem zaproszenia można zaprosić tylko obserwatora albo członka drużyny.

@@ -47,6 +47,12 @@ Zarówno w przypadku braku internetu, jak i problemów z GPS, mapa będąca cent
 - Zmianą koloru kółka na szary
 - Zmniejszeniem się promienia oznaczającego dokładność GPS
 
-### 3. Logowanie do aplikacji
+Od wersji 7.0.0 stan połączenia widać na mapie. **Na żywo** oznacza, że zmiany docierają po kilku sekundach. **Aktualizacja co minutę** oznacza słabe połączenie: aplikacja pobiera dane co minutę i pokazuje godzinę ostatnich danych. **Bez połączenia** oznacza brak Internetu: widzisz ostatnie pobrane dane, a zbieranie punktów nie zadziała, dopóki sieć nie wróci. Więcej: [Gra na żywo](features/live-mode.md#gra-na-żywo).
+
+### 3. Gra w okienku Messengera i podobnych aplikacji
+
+Link do gry otwarty wewnątrz innej aplikacji (np. Messengera) otwiera się w małym okienku przeglądarki, w którym gra może nie działać prawidłowo. Od wersji 7.0.0 aplikacja prosi wtedy o otwarcie gry w aplikacji Let's Map albo w zwykłej przeglądarce. Jeśli nic się nie otwiera, stuknij menu w prawym górnym rogu i wybierz „Otwórz w przeglądarce” albo skopiuj link i wklej go w przeglądarce.
+
+### 4. Logowanie do aplikacji
 
 Zalogowanie się do aplikacji jest niemożliwe bez dostępu do internetu.

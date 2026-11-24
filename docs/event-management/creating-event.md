@@ -179,9 +179,9 @@ Po wypełnieniu wszystkich wymaganych pól:
 3. W przypadku błędów, popraw wskazane pola
 4. Po pomyślnym utworzeniu otrzymasz potwierdzenie
 
-## System kluczy dostępu
+## Kody zaproszeń
 
-[Dowiedz się więcej o systemie kluczy dostępu i zarządzaniu uczestnikami](inviting-participants-organizers.md)
+[Dowiedz się więcej o kodach zaproszeń, kodach QR i zapraszaniu uczestników](inviting-participants-organizers.md)
 
 ## Rozwiązywanie problemów
 

@@ -1,19 +1,19 @@
 # Zapraszanie uczestników i organizatorów
 Autor: **Dominik Betka**
 
-Kompletny przewodnik dotyczący zapraszania uczestników i organizatorów do wydarzeń w aplikacji Let's Map. Dowiedz się, jak korzystać z systemu kluczy dostępu, zarządzać rolami uczestników i skutecznie organizować wydarzenia.
+Kompletny przewodnik dotyczący zapraszania uczestników i organizatorów do wydarzeń w aplikacji Let's Map. Dowiedz się, jak korzystać z kodów zaproszeń, zarządzać rolami uczestników i skutecznie organizować wydarzenia.
 
 ## Przegląd systemu zaproszeń
 
-Let's Map wykorzystuje system 4-znakowych kluczy zaproszeniowych, które zapewniają bezpieczny i łatwy dostęp do wydarzeń. Każdy klucz nadaje określone uprawnienia i role w ramach wydarzenia.
+Let's Map wykorzystuje 4-znakowe kody zaproszeń, które zapewniają bezpieczny i łatwy dostęp do wydarzeń. Każdy kod nadaje określone uprawnienia i role w ramach wydarzenia.
 
-## System kluczy dostępu
+## Kody zaproszeń
 
-Po utworzeniu wydarzenia system automatycznie generuje trzy różne klucze dostępu, każdy z różnymi uprawnieniami:
+Po utworzeniu wydarzenia system automatycznie generuje trzy różne kody zaproszeń, każdy z różnymi uprawnieniami:
 
-- **Klucz administratora**: Dla współorganizatorów z pełnymi uprawnieniami
-- **Klucz obserwatora**: Dla osób z dostępem tylko do odczytu
-- **Klucz lidera drużyny**: Dla liderów drużyn uczestniczących w wydarzeniu
+- **Kod administratora**: Dla współorganizatorów z pełnymi uprawnieniami
+- **Kod obserwatora**: Dla osób z dostępem tylko do odczytu
+- **Kod lidera drużyny**: Dla liderów drużyn uczestniczących w wydarzeniu
 
 Szczegółowe informacje o rolach i uprawnieniach znajdziesz w przewodniku: [Role w wydarzeniu](event-management/roles-in-event.md)
 
@@ -24,81 +24,91 @@ Szczegółowe informacje o rolach i uprawnieniach znajdziesz w przewodniku: [Rol
 Aby zaprosić uczestników:
 1. Otwórz swoje wydarzenie w aplikacji
 2. Przejdź do sekcji "Udostępnij wydarzenie"
-3. Wybierz odpowiedni typ klucza dla osoby, którą chcesz zaprosić
+3. Wybierz odpowiedni typ kodu dla osoby, którą chcesz zaprosić
 
-### 2. Wybór odpowiedniego klucza
+### 2. Wybór odpowiedniego kodu
 
-**Dla współorganizatorów**: Użyj klucza administratora
-**Dla obserwatorów**: Użyj klucza obserwatora
-**Dla uczestników z drużynami**: Użyj klucza lidera drużyny
+**Dla współorganizatorów**: Użyj kodu administratora
+**Dla obserwatorów**: Użyj kodu obserwatora
+**Dla uczestników z drużynami**: Użyj kodu lidera drużyny
 
-### 3. Udostępnianie klucza
+### 3. Udostępnianie kodu
 
-**Kopiowanie klucza**:
-1. Wybierz typ klucza z listy rozwijanej
-2. Kliknij "Kopiuj klucz"
-3. Klucz zostanie skopiowany do schowka
+**Kopiowanie kodu**:
+1. Wybierz typ kodu z listy rozwijanej
+2. Kliknij przycisk z kodem zaproszenia („Kod zaproszenia”)
+3. Kod zostanie skopiowany do schowka
 4. Udostępnij go wybranej osobie (SMS, email, komunikator)
 
-**Format klucza**: Klucze składają się z 4 znaków (np. "AbC7", "xY3K")
+**Format kodu**: Kody składają się z 4 znaków (np. "AbC7", "xY3K")
+
+### 4. Kod QR zaproszenia
+
+Zamiast przepisywać kod, uczestnicy mogą zeskanować kod QR:
+1. Na ekranie udostępniania wybierz typ kodu i stuknij **Wyślij zaproszenie**
+2. Pokaż kod QR na ekranie, udostępnij link albo zapisz PDF do wydruku (np. plakat przy starcie)
+3. Przy zaproszeniu dla lidera drużyny możesz włączyć **Szybkie dołączenie**: kto zeskanuje kod, od razu gra nową drużyną, a nazwę, kolor i nick losujemy. Gracz podaje tylko e-mail
+
+Szczegóły: [Kody QR](features/qr-codes.md#dołączanie-do-wydarzenia-kodem-qr)
 
 ## Zarządzanie drużynami
 
 ### Tworzenie drużyny przez lidera
 
-Gdy osoba dołącza używając klucza lidera drużyny:
+Gdy osoba dołącza używając kodu lidera drużyny:
 1. **Podaje nick**: Wybiera nazwę wyświetlaną w wydarzeniu
 2. **Tworzy drużynę**:
    - Podaje nazwę drużyny
    - Wybiera kolor drużyny z dostępnej palety
-3. **Otrzymuje klucz członka**: System automatycznie generuje klucz dla członków tej drużyny
+3. **Otrzymuje kod członka**: System automatycznie generuje kod dla członków tej drużyny
 
 ### Zapraszanie członków drużyny
 
 Lider drużyny może zapraszać członków:
-1. **Dostęp do klucza członka**: Lider otrzymuje specjalny 4-znakowy klucz dla swojej drużyny. Klucz znajduje się na stronie "Zaproś do drużyny"
-2. **Udostępnianie klucza**: Przekazuje klucz osobom, które mają dołączyć do drużyny
-3. **Dołączanie członków**: Osoby używają klucza członka i automatycznie trafiają do odpowiedniej drużyny
+1. **Dostęp do kodu członka**: Lider otrzymuje specjalny 4-znakowy kod dla swojej drużyny. Kod znajduje się na ekranie „Zaproszenie do drużyny”
+2. **Udostępnianie kodu**: Przekazuje kod osobom, które mają dołączyć do drużyny
+3. **Dołączanie członków**: Osoby używają kodu członka i automatycznie trafiają do odpowiedniej drużyny
 
-### Zarządzanie kluczem drużyny
+### Zarządzanie kodem drużyny
 
 Lider drużyny może:
-- **Resetować klucz członka**: Generuje nowy 4-znakowy klucz (stary przestaje działać)
-- **Kopiować klucz**: Łatwe udostępnianie przez schowek
-- **Kontrolować dostęp**: Tylko lider ma dostęp do klucza swojej drużyny
+- **Resetować kod członka**: Generuje nowy 4-znakowy kod (stary przestaje działać)
+- **Kopiować kod**: Łatwe udostępnianie przez schowek
+- **Pokazać kod QR**: Przycisk „Wyślij zaproszenie”, także z opcją **Szybkie dołączenie** (zeskanowanie od razu dodaje gracza do drużyny, nick losujemy)
+- **Kontrolować dostęp**: Tylko lider ma dostęp do kodu swojej drużyny
 
 ## Dołączanie do wydarzenia
 
 ### Proces dla nowych członków drużyny
 
-1. **Otrzymanie klucza**: Uczestnik otrzymuje 4-znakowy klucz od organizatora
+1. **Otrzymanie kodu**: Uczestnik otrzymuje 4-znakowy kod od organizatora
 2. **Otworzenie aplikacji**: Uruchomienie Let's Map
 3. **Dołączanie do wydarzenia**:
    - Wybór opcji "Dołącz do wydarzenia"
-   - Wpisanie 4-znakowego klucza
-   - System sprawdza poprawność klucza
+   - Wpisanie 4-znakowego kodu albo zeskanowanie kodu QR zaproszenia
+   - System sprawdza poprawność kodu
 4. **Podanie danych**:
    - **Nick**: Nazwa wyświetlana w wydarzeniu (wymagane dla wszystkich ról)
 5. **Potwierdzenie**: Automatyczne wejście do wydarzenia
 
-## Bezpieczeństwo kluczy dostępu
+## Bezpieczeństwo kodów zaproszeń
 
 ### Zasady bezpieczeństwa:
 
-**Ochrona kluczy**:
-- Nie publikuj kluczy w publicznych miejscach (social media, fora)
-- Udostępniaj klucze tylko zaufanym osobom
+**Ochrona kodów**:
+- Nie publikuj kodów w publicznych miejscach (social media, fora)
+- Udostępniaj kody tylko zaufanym osobom
 - Używaj prywatnych kanałów komunikacji (SMS, email, komunikatory)
 
-**Resetowanie kluczy**:
-- **Kiedy resetować**: Gdy klucz został skompromitowany lub udostępniony niepożądanym osobom
-- **Jak resetować**: Kliknij opcję "Resetuj klucz" w panelu udostępniania
-- **Skutek**: Stary klucz przestaje działać, generowany jest nowy
+**Resetowanie kodów**:
+- **Kiedy resetować**: Gdy kod został skompromitowany lub udostępniony niepożądanym osobom
+- **Jak resetować**: Wybierz „Zresetuj kod zaproszenia” na ekranie udostępniania
+- **Skutek**: Stary kod przestaje działać, także na wydrukowanych kodach QR. Generowany jest nowy
 
 **Kontrola dostępu**:
 - Regularnie sprawdzaj listę uczestników
 - Usuwaj lub banuj niepożądanych użytkowników
-- Poinformuj liderów drużyn o nieudostępnianiu kluczy członkom drużyny
+- Poinformuj liderów drużyn o nieudostępnianiu kodów członkom drużyny
 
 Więcej informacji o bezpieczeństwie ról i zarządzaniu użytkownikami znajdziesz w: [Role w wydarzeniu](event-management/roles-in-event.md)
 
@@ -120,7 +130,7 @@ Więcej informacji o bezpieczeństwie ról i zarządzaniu użytkownikami znajdzi
 
 **Informacje do przekazania**:
 - Jak pobrać aplikację Let's Map
-- Jak używać 4-znakowego klucza
+- Jak używać 4-znakowego kodu
 - Jakie uprawnienia będzie miał uczestnik
 - Zasady wydarzenia i bezpieczeństwa
 
@@ -139,16 +149,16 @@ Więcej informacji o bezpieczeństwie ról i zarządzaniu użytkownikami znajdzi
 **Wsparcie techniczne**:
 - Pomóż uczestnikom z problemami logowania
 - Wyjaśnij funkcje aplikacji uczestnikom
-- Resetuj klucze w razie potrzeby
+- Resetuj kody w razie potrzeby
 
 ## Rozwiązywanie problemów
 
 ### Typowe problemy z zaproszeniami:
 
-**Klucz nie działa**:
-- Sprawdź, czy klucz został przepisany poprawnie (4 znaki)
+**Kod nie działa**:
+- Sprawdź, czy kod został przepisany poprawnie (4 znaki)
 - Upewnij się, że wydarzenie jest aktywne
-- Sprawdź, czy klucz nie został zresetowany
+- Sprawdź, czy kod nie został zresetowany
 
 **Problemy z tworzeniem drużyny**:
 - Sprawdź, czy nazwa drużyny nie jest już zajęta
