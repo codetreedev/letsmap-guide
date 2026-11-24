@@ -1,6 +1,6 @@
 # Zadania punktów
 
-Zadania zastępują dotychczasowe pole hasła i opcję zbierania przez GPS w formularzu punktu. Zamiast jednego hasła organizator może poprosić drużynę o podanie liczby, wpisanie kodu jak w kłódce, wybór odpowiedzi z listy, ułożenie elementów w kolejności, uzupełnienie luk w zdaniu, zeskanowanie kodu QR przy punkcie (od wersji 7.0.0) albo rozwiązanie kilku zadań naraz. Do zadania można dodać limit prób, karę za błędną odpowiedź, przerwę między próbami oraz płatne podpowiedzi.
+Zadania zastępują dotychczasowe pole hasła i opcję zbierania przez GPS w formularzu punktu. Zamiast jednego hasła organizator może poprosić drużynę o podanie liczby, wpisanie kodu jak w kłódce, wybór odpowiedzi z listy, ułożenie elementów w kolejności, uzupełnienie luk w zdaniu, zeskanowanie kodu QR przy punkcie albo rozwiązanie kilku zadań naraz. Do zadania można dodać limit prób, karę za błędną odpowiedź, przerwę między próbami oraz płatne podpowiedzi.
 
 Sekcja **Zadanie** jest dostępna w formularzu punktu zarówno w aplikacji, jak i w panelu administratora. Nowy punkt zbierany z dowolnego miejsca domyślnie dostaje zadanie typu **Hasło** — jeśli zostawisz je puste, hasło zostanie wygenerowane automatycznie, tak jak dotychczas.
 
@@ -45,7 +45,7 @@ Odpowiedź jest oceniana w całości — jest albo w pełni poprawna, albo błę
   - **Kod o stałej długości (kratki)** — drużyna wpisuje kod znak po znaku, jak w kłódce szyfrowej. Kod ma od 1 do 12 znaków, bez spacji i bez innych pisowni; liczba kratek wynika z długości odpowiedzi.
 - **Wybór z listy** — przy jednokrotnym wyborze zaznacz dokładnie jedną poprawną odpowiedź, przy wielokrotnym co najmniej jedną; drużyna musi zaznaczyć wszystkie poprawne odpowiedzi — i tylko je. Odpowiedzi są zawsze wymieszane, inaczej dla każdej drużyny, więc kolejność wpisania nie ma znaczenia (możesz śmiało wpisać poprawną odpowiedź jako pierwszą).
 - **Uzupełnij luki** — lukę zapisuje się w zdaniu jako `[[odpowiedź]]`, a inne poprawne odpowiedzi oddziela się znakiem `|`, np. `Stolicą Małopolski jest [[Kraków|Cracow]].` Można też zaznaczyć słowo i użyć przycisku **Zamień zaznaczenie w lukę**. Zdanie może mieć do 20 luk. Po włączeniu **puli słów** drużyna widzi do wyboru odpowiedzi z luk oraz do 10 słów-zmyłek.
-- **Kod QR** — punkt może mieć najwyżej jeden kod. W punkcie z rodzajem **Kilka zadań** kod może być jednym z zadań albo **odsłaniać pozostałe zadania** (drużyna zobaczy pytania dopiero po zeskanowaniu; w tym trybie kod nie jest dowodem, że drużyna była przy punkcie). **Wygeneruj nowy kod** unieważnia wcześniejszy wydruk.
+- **Kod QR** — punkt może mieć najwyżej jeden kod. W punkcie z rodzajem **Kilka zadań** kod może być jednym z zadań albo **odsłaniać pozostałe zadania** (drużyna zobaczy pytania dopiero po zeskanowaniu). **Wygeneruj nowy kod** unieważnia wcześniejszy wydruk.
 - **Kilka zadań** — każde zadanie ma własne pytanie i może być dowolnego rodzaju (poza kolejnym „Kilka zadań”). Drużyna zdobywa punkt, gdy wszystkie odpowiedzi są poprawne. Limit prób, kara i podpowiedzi dotyczą całego punktu, nie pojedynczych zadań.
 
 ## Treść zadania

@@ -5,7 +5,7 @@ Strona dotyczący tworzenia wydarzeń w aplikacji - platformie do organizowania 
 
 ## Przegląd
 
-Tworzenie wydarzenia w Let's Map to prosty proces, który pozwala na zorganizowanie gier dla uczestników z możliwością konfiguracji zaawansowanych ustawień gry. Każde wydarzenie ma unikalne klucze dostępu dla różnych ról uczestników.
+Tworzenie wydarzenia w Let's Map to prosty proces, który pozwala na zorganizowanie gier dla uczestników z możliwością konfiguracji zaawansowanych ustawień gry. Każde wydarzenie ma osobne kody zaproszeń dla różnych ról uczestników.
 
 ## Wymagania wstępne
 

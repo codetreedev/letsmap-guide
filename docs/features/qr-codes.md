@@ -1,6 +1,6 @@
 # Kody QR
 
-Od wersji 7.0.0 kody QR przydają się w dwóch miejscach: przy **zbieraniu punktów** i przy **dołączaniu do wydarzenia**. Kod drukujesz albo pokazujesz na ekranie, a gracze skanują go aparatem.
+Kody QR przydają się w dwóch miejscach: przy **zbieraniu punktów** i przy **dołączaniu do wydarzenia**. Kod drukujesz albo pokazujesz na ekranie, a gracze skanują go aparatem.
 
 ## Zbieranie punktu kodem QR
 
@@ -14,7 +14,7 @@ Kod QR sprawdza się tam, gdzie GPS zawodzi, np. w budynku albo w gęstym lesie:
 2. Kod tworzy się sam. Możesz go zmienić przyciskiem **Wygeneruj nowy kod**, ale wcześniej wydrukowana kartka tego punktu przestanie wtedy działać.
 3. Kod QR może być też jednym z zadań w punkcie z rodzajem **Kilka zadań** (najwyżej jeden kod na punkt). Masz wtedy dwie możliwości:
    - kod jest **jednym z zadań**: drużyna musi go zeskanować, żeby zdobyć punkt,
-   - kod **odsłania pozostałe zadania**: drużyna zobaczy pytania dopiero po zeskanowaniu. Uwaga: w tym trybie kod tylko odsłania zadania i nie jest dowodem, że drużyna była przy punkcie.
+   - kod **odsłania pozostałe zadania**: drużyna zobaczy pytania dopiero po zeskanowaniu.
 
 Więcej o rodzajach zadań: [Zadania punktów](features/point-challenges.md#rodzaje-zadań).
 
@@ -28,9 +28,7 @@ Do wyboru masz:
 - **wygląd karty**: prosta, rozbudowana albo własna; na karcie mogą być m.in. nazwa wydarzenia, nazwa punktu, kod do wpisania, własny tekst i prośba o niezdejmowanie kartki do końca wydarzenia,
 - **kolory**: kolorowa albo czarno-biała.
 
-Gotowy plik PDF ma strony A4, na życzenie z liniami cięcia. Jeśli wolisz drukować po swojemu (np. naklejki), pobierz plik CSV i zrób z niego kody w Excelu albo w programie do etykiet.
-
-> **Dobrze wiedzieć:** zduplikowany punkt dostaje nowy kod, więc jedna kartka nigdy nie zbierze dwóch punktów.
+Gotowy plik PDF ma strony A4, na życzenie z liniami cięcia. Jeśli wolisz drukować po swojemu (np. naklejki), pobierz plik CSV.
 
 ## Dołączanie do wydarzenia kodem QR
 

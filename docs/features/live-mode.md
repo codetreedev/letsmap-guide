@@ -1,6 +1,6 @@
 # Gra na żywo
 
-Od wersji 7.0.0 wydarzenie działa na żywo. Zmiany w grze docierają do telefonów po kilku sekundach, a nie, jak wcześniej, do minuty później.
+Wydarzenie działa na żywo: zmiany w grze docierają do telefonów po kilku sekundach.
 
 ## Co to zmienia?
 
@@ -26,4 +26,4 @@ Przy słabym Internecie gra działa dalej, tylko wolniej. Gdy sygnał wróci, ap
 ## Czego tryb na żywo nie robi?
 
 - Nie wysyła powiadomień, gdy aplikacja jest zamknięta. Zmiany zobaczysz po jej otwarciu.
-- Nie jest osobnym przyciskiem typu „zdarzenie dla wszystkich”. Zmiany w grze robisz jak dotąd: punktami, ofertami i aktualnościami, także zaplanowanymi wcześniej.
+- Nie jest osobnym przyciskiem typu „zdarzenie dla wszystkich”. Zmiany w grze robisz jak zwykle: punktami, ofertami i aktualnościami, także zaplanowanymi wcześniej.
