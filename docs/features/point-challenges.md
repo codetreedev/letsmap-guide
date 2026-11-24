@@ -43,10 +43,11 @@ Odpowiedź jest oceniana w całości — jest albo w pełni poprawna, albo błę
 - **Hasło**
   - **Dozwolone znaki**: Dowolne, Tylko litery, Tylko cyfry lub Litery i cyfry. Drużyna widzi przy polu odpowiedzi, jakie znaki są dozwolone, a odpowiedź z innymi znakami nie jest liczona jako próba.
   - **Kod o stałej długości (kratki)** — drużyna wpisuje kod znak po znaku, jak w kłódce szyfrowej. Kod ma od 1 do 12 znaków, bez spacji i bez innych pisowni; liczba kratek wynika z długości odpowiedzi.
+  - W punkcie z rodzajem **Kilka zadań** hasło może być jednym z zadań albo **odsłaniać pozostałe zadania** (drużyna zobaczy pytania dopiero po wpisaniu hasła).
 - **Wybór z listy** — przy jednokrotnym wyborze zaznacz dokładnie jedną poprawną odpowiedź, przy wielokrotnym co najmniej jedną; drużyna musi zaznaczyć wszystkie poprawne odpowiedzi — i tylko je. Odpowiedzi są zawsze wymieszane, inaczej dla każdej drużyny, więc kolejność wpisania nie ma znaczenia (możesz śmiało wpisać poprawną odpowiedź jako pierwszą).
 - **Uzupełnij luki** — lukę zapisuje się w zdaniu jako `[[odpowiedź]]`, a inne poprawne odpowiedzi oddziela się znakiem `|`, np. `Stolicą Małopolski jest [[Kraków|Cracow]].` Można też zaznaczyć słowo i użyć przycisku **Zamień zaznaczenie w lukę**. Zdanie może mieć do 20 luk. Po włączeniu **puli słów** drużyna widzi do wyboru odpowiedzi z luk oraz do 10 słów-zmyłek.
 - **Kod QR** — punkt może mieć najwyżej jeden kod. W punkcie z rodzajem **Kilka zadań** kod może być jednym z zadań albo **odsłaniać pozostałe zadania** (drużyna zobaczy pytania dopiero po zeskanowaniu). **Wygeneruj nowy kod** unieważnia wcześniejszy wydruk.
-- **Kilka zadań** — każde zadanie ma własne pytanie i może być dowolnego rodzaju (poza kolejnym „Kilka zadań”). Drużyna zdobywa punkt, gdy wszystkie odpowiedzi są poprawne. Limit prób, kara i podpowiedzi dotyczą całego punktu, nie pojedynczych zadań.
+- **Kilka zadań** — każde zadanie ma własne pytanie i może być dowolnego rodzaju (poza kolejnym „Kilka zadań”). Drużyna zdobywa punkt, gdy wszystkie odpowiedzi są poprawne. Limit prób, kara i podpowiedzi dotyczą całego punktu, nie pojedynczych zadań. Pozostałe zadania może odsłaniać tylko jedno zadanie w punkcie: kod QR albo hasło.
 
 ## Treść zadania
 
