@@ -22,11 +22,21 @@
   * [Zapraszanie uczestników i organizatorów](event-management/inviting-participants-organizers.md#zapraszanie-uczestników-i-organizatorów)
   * [Zarządzanie uczestnikami](event-management/managing-participants.md#zarządzanie-uczestnikami)
   * [Monitorowanie postępów drużyn](event-management/scoreboard.md#monitorowanie-postępów-drużyn)
-  * [Problemy techniczne (Internet, GPS)](event-management/connection-issues.md#problemy-związane-z-brakiem-internetu-lub-lokalizacji-gps)
+  * [Problemy techniczne (Internet, GPS)](event-management/connection-issues.md)
 
 [//]: # (* [Zarządzanie kontem]&#40;&#41;)
 
 * Funkcjonalności
+  * [Gra na żywo](features/live-mode.md#gra-na-żywo)
+  * [Kody QR](features/qr-codes.md#kody-qr)
+    * [Zbieranie punktu kodem QR](features/qr-codes.md#zbieranie-punktu-kodem-qr)
+    * [Dołączanie kodem QR](features/qr-codes.md#dołączanie-do-wydarzenia-kodem-qr)
+  * [Gry publiczne](features/public-events.md#gry-publiczne)
+    * [Dla autorów](features/public-events-authors.md#gry-publiczne-dla-autorów)
+    * [Przygotuj wydarzenie](features/public-events-authors.md#przygotuj-wydarzenie)
+    * [Zgłoś wydarzenie](features/public-events-authors.md#zgłoś-wydarzenie)
+    * [Statystyki Twojej gry](features/public-events-authors.md#statystyki-twojej-gry)
+    * [Aktualizacja gry](features/public-events-authors.md#aktualizacja-opublikowanej-gry)
   * [Aktualności w wydarzeniu](features/notifications.md#aktualności-w-wydarzeniu)
     * [Przykładowy wygląd](features/notifications.md#przykładowy-wygląd-aktualności)
     * [Jak wysłać aktualność?](features/notifications.md#jak-wysłać-aktualności)
@@ -48,6 +58,7 @@
       * [Najczęstsze problemy](features/market.md#najczęstsze-problemy)
 
 * Aktualizacje wersji
+  * [7.0.0](versions/7.0.0.md#wersja-700)
   * [6.3.0](versions/6.3.0.md#wersja-630)
   * [6.2.0](versions/6.2.0.md#wersja-620)
   * [6.1.0](versions/6.1.0.md#wersja-610)

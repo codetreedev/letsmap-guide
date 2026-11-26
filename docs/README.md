@@ -13,6 +13,7 @@ Let's Map to nowoczesne narzędzie do tworzenia i zarządzania grami terenowymi,
 
 Aplikacja umożliwia zbieranie punktów na kilka sposobów:
 - **GPS** – zaliczenie dotknięciem po dotarciu w określone miejsce
+- **Kod QR** – zeskanowanie kodu wydrukowanego przy punkcie ([dowiedz się więcej](features/qr-codes.md#kody-qr))
 - **Zadanie** – pytanie z odpowiedzią w formie słowa, kodu, liczby, wyborem z listy, kodem w kratkach jak w kłódce, uzupełnianiem luk, układaniem w kolejności lub kilka zadań naraz – z limitem prób, karami i płatnymi podpowiedziami
 
 Zadanie można pokazać z dowolnego miejsca albo dopiero po dotarciu do punktu. [Dowiedz się więcej o zadaniach punktów](features/point-challenges.md#zadania-punktów).
@@ -40,13 +41,16 @@ Zadanie można pokazać z dowolnego miejsca albo dopiero po dotarciu do punktu. 
 - **[Kategorie punktów](event-management/managing-point-categories.md#zarządzanie-kategoriami-punktów)** – organizuj punkty według typu i wartości
 - **[Zadania punktów](features/point-challenges.md#zadania-punktów)** – pytania, kody, wybór z listy i inne zadania z podpowiedziami i karami
 - **[Monitorowanie postępów](event-management/scoreboard.md#tabela-wyników)** – śledź wyniki na żywo
+- **[Gra na żywo](features/live-mode.md#gra-na-żywo)** – zmiany w grze docierają do graczy po kilku sekundach
+- **[Kody QR](features/qr-codes.md#kody-qr)** – zbieranie punktów i dołączanie do wydarzenia przez zeskanowanie kodu
 
 ### 🚀 Zaawansowane funkcje
 
+- **[Gry publiczne](features/public-events.md#gry-publiczne)** – gotowe gry, do których każdy dołącza sam i gra we własnym tempie. [Dla autorów](features/public-events-authors.md#gry-publiczne-dla-autorów): zgłoś swoje wydarzenie do katalogu i śledź jego statystyki
 - **[Zaawansowane ustawienia wydarzenia](event-management/creating-event.md#_4-zaawansowane-ustawienia-gry)** – dostosuj zasady gry do swoich potrzeb
 - **[Aktualności](features/notifications.md#aktualności-w-wydarzeniu)** – komunikuj się z uczestnikami podczas gry
 - **[Plecak drużyny](features/backpack.md#plecak-drużyny)** – system przedmiotów i zasobów
-- **[Sklep w aplikacji](features/market.md#sklep-w-aplikacji)** – dodaj wymianę punktów na przedmioty
+- **[Sklep w aplikacji](features/market.md#sklep-w-aplikacji)** – oferty wymiany przedmiotów od organizatora i między drużynami
 
 ### 🌐 Poznaj więcej
 
